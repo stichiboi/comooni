@@ -19,11 +19,15 @@ URL = "https://en.wikipedia.org/w/api.php"
 PARAMS = {
     "action": "query",
     "format": "json",
-    "titles": "Albert Einstein",
-    "prop": "images"
+    "titles": "Prato Sesia",
+    "prop": "images", 
+    "iiprop": "url", 
+    "iilimit": 100
 }
 
-R = S.get(url=URL, params=PARAMS)
+R = S.get(url=URL, params=PARAMS, headers = {
+        "User-Agent": "ComuniPageviewsBot/1.0 (contatto: giulia.maineri@example.com)"
+    })
 DATA = R.json()
 
 PAGES = DATA['query']['pages']
