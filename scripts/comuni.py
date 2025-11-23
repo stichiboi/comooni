@@ -2,18 +2,21 @@ import pandas as pd
 import requests
 import tqdm
 import urllib.parse
+from pathlib import Path
 
-# --- 1. Carico il file Excel ---
-df = pd.read_excel("comuni.xlsx")
-df.columns = df.columns.str.strip()  # tolgo spazi indesiderati
+COMUNI_FILE = Path("../resources/comuni.xlsx")
+PROVINCE_FILE = Path("../resources/province-italiane.xlsx")
+OUTPUT_FILE = Path("../resources/comuni.json")
+
+df_comuni = pd.read_excel(COMUNI_FILE)
+df_comuni.columns = df_comuni.columns.str.strip()
 
 
-df_prov = pd.read_excel("province-italiane.xlsx")
+df_provincie = pd.read_excel(PROVINCE_FILE)
 
-# --- 2. Ciclo su tutti i comuni ---
 comuni = []
 
-for _, row in tqdm.tqdm(df.iterrows()):
+for _, row in tqdm.tqdm(df_comuni.iterrows()):
     nome_comune = row["denominazione_ita"]
     nome_comune = str(row["denominazione_ita"]).strip()
     nome_encoded = urllib.parse.quote(nome_comune)  # encode per URL
@@ -35,11 +38,11 @@ for _, row in tqdm.tqdm(df.iterrows()):
     except Exception as e:
         views = None
 
-    prov_row = df_prov.loc[df_prov["Sigla"]==row["sigla_provincia"]]
+    prov_row = df_provincie.loc[df_provincie["Sigla"]==row["sigla_provincia"]]
     if prov_row.empty: 
         prov_row={
-            "Provincia": "Unknown", 
-            "Regione": "Unknown"
+            "provincia": "Napoli", 
+            "regione": "Campania"
         }
     else:
         prov_row = prov_row.iloc[0]
@@ -61,5 +64,5 @@ for _, row in tqdm.tqdm(df.iterrows()):
 
 # --- 3. Stampo o salvo il risultato ---
 import json
-with open("comuni.json", "w") as f: 
+with open(OUTPUT_FILE, "w") as f: 
     json.dump(comuni, f, indent=2, ensure_ascii=False)
