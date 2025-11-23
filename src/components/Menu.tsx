@@ -6,8 +6,10 @@ interface Difficulty {
 
 interface MenuProps {
   onStartGame: (difficulty: string) => void;
+
+  previousScore: number | null;
 }
-export function Menu({ onStartGame }: MenuProps) {
+export function Menu({ onStartGame, previousScore }: MenuProps) {
   const difficulties: Record<string, Difficulty> = {
     easy: {
       label: "Facile",
@@ -29,6 +31,7 @@ export function Menu({ onStartGame }: MenuProps) {
   return (
     <div>
       <h1>{"Comooni"}</h1>
+      {previousScore && <p>Your previous score: {previousScore}</p>}
       <section>
         {Object.entries(difficulties).map(([key, difficulty]) => (
           <button

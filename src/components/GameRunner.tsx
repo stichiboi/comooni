@@ -5,7 +5,7 @@ import { useQuery } from "@tanstack/react-query";
 
 interface GameRunnerProps {
   difficulty: string;
-  onGameOver: () => void;
+  onGameOver: (score: number) => void;
 }
 
 function mapDataPointToQuestion(dataPoint: DataPoint): Question {
@@ -21,7 +21,7 @@ const GAME_LENGTH = 20;
 
 export function GameRunner({ difficulty, onGameOver }: GameRunnerProps) {
   const [currentQuestion, setCurrentQuestion] = useState<number>(0);
-
+  const [score, setScore] = useState<number>(0);
   const {
     data: questions,
     isLoading,
@@ -45,9 +45,12 @@ export function GameRunner({ difficulty, onGameOver }: GameRunnerProps) {
         }),
   });
 
-  const onAnswer = () => {
+  const onAnswer = (isCorrect: boolean) => {
+    if (isCorrect) {
+      setScore((prev) => prev + 1);
+    }
     if (currentQuestion === questions!.length - 1) {
-      onGameOver();
+      onGameOver(score);
     } else {
       setCurrentQuestion((prev) => prev + 1);
     }
