@@ -2,6 +2,7 @@ import { useState } from "react";
 import { Menu } from "./Menu";
 import { GameRunner } from "./GameRunner";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
+import "./GameManager.css";
 
 export function GameManager() {
   const [difficulty, setDifficulty] = useState<string | null>(null);
@@ -23,7 +24,9 @@ export function GameManager() {
 
   return (
     <QueryClientProvider client={queryClient}>
-      <GameRunner onGameOver={onGameOver} difficulty={difficulty} />
+      <div className="manager">
+        <GameRunner onGameOver={onGameOver} difficulty={difficulty} />
+      </div>
     </QueryClientProvider>
   );
 }

@@ -1,0 +1,55 @@
+button {
+  box-sizing: border-box;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: 0.25s;
+  transition-property: border-color, background-color, transform;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5em;
+  width: 100%;
+}
+button:hover:not(.disabled) {
+  border-color: var(--color, #646cff);
+  background-color: transparent;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+button:active {
+  transform: scale(0.98);
+}
+.correct,
+.easy {
+  --color: var(--green);
+  background-color: var(--green);
+}
+
+.medium {
+  --color: var(--yellow);
+
+  background-color: var(--yellow);
+}
+
+.incorrect,
+.hard {
+  --color: var(--red);
+  background-color: var(--red);
+}
+
+.next {
+  width: 100%;
+}
+
+.align-left {
+  justify-content: flex-start;
+}

@@ -1,0 +1,19 @@
+h1 {
+  margin: 0;
+  text-transform: lowercase;
+}
+
+.menu {
+  width: 100%;
+  /* height: 100%; */
+  margin-top: auto;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  gap: 2em;
+}
+
+.difficulty-buttons {
+  display: grid;
+  gap: 10px;
+}

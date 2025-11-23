@@ -69,9 +69,11 @@ export function GameRunner({ difficulty, onGameOver }: GameRunnerProps) {
   }
 
   return (
-    <QuestionComponent
-      onAnswer={onAnswer}
-      question={questions[currentQuestion]}
-    />
+    <div>
+      <QuestionComponent
+        onAnswer={onAnswer}
+        question={questions[currentQuestion]}
+      />
+    </div>
   );
 }

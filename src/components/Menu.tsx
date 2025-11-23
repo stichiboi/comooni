@@ -1,3 +1,6 @@
+import { Button } from "./generic/Button";
+import "./Menu.css";
+
 interface Difficulty {
   label: string;
   color: string;
@@ -29,20 +32,16 @@ export function Menu({ onStartGame, previousScore }: MenuProps) {
   };
 
   return (
-    <div>
+    <main className="menu">
       <h1>{"Comooni"}</h1>
       {previousScore && <p>Your previous score: {previousScore}</p>}
-      <section>
+      <section className="difficulty-buttons">
         {Object.entries(difficulties).map(([key, difficulty]) => (
-          <button
-            key={key}
-            style={{ backgroundColor: difficulty.color }}
-            onClick={() => onStartGame(key)}
-          >
+          <Button key={key} className={key} onClick={() => onStartGame(key)}>
             {difficulty.label}
-          </button>
+          </Button>
         ))}
       </section>
-    </div>
+    </main>
   );
 }
