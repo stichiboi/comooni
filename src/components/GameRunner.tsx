@@ -2,6 +2,8 @@ import { useEffect, useState } from "react";
 import type { DataPoint, Question } from "../types";
 import { Question as QuestionComponent } from "./Question";
 import { useQuery } from "@tanstack/react-query";
+import { ProgressBar } from "./generic/ProgressBar";
+import "./GameRunner.css";
 
 interface GameRunnerProps {
   difficulty: string;
@@ -78,18 +80,33 @@ export function GameRunner({ difficulty, onGameOver }: GameRunnerProps) {
     return <div>No questions found</div>;
   }
 
+  const difficultyColors: Record<string, string> = {
+    easy: "#4CAF50",
+    medium: "#FF9800",
+    hard: "#F44336",
+  };
+
   return (
-    <div className={isTransitioning ? "scrollable scrolled" : ""}>
-      {isTransitioning && (
+    <div className="game-runner">
+      <header>
+        <ProgressBar
+          progress={currentQuestion / questions.length}
+          label={`${currentQuestion} / ${questions.length}`}
+          color={difficultyColors[difficulty] || "#58cc02"}
+        />
+      </header>
+      <div className={isTransitioning ? "scrollable scrolled" : ""}>
+        {isTransitioning && (
+          <QuestionComponent
+            onAnswer={onAnswer}
+            question={questions[currentQuestion - 1]!}
+          />
+        )}
         <QuestionComponent
           onAnswer={onAnswer}
-          question={questions[currentQuestion - 1]!}
+          question={questions[currentQuestion]}
         />
-      )}
-      <QuestionComponent
-        onAnswer={onAnswer}
-        question={questions[currentQuestion]}
-      />
+      </div>
     </div>
   );
 }
