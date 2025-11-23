@@ -6,7 +6,6 @@ button {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #1a1a1a;
   cursor: pointer;
   transition: 0.25s;
   transition-property: border-color, background-color, transform;
@@ -15,10 +14,15 @@ button {
   justify-content: center;
   gap: 0.5em;
   width: 100%;
+  color: var(--dark);
+  --color: var(--light);
+  --border-color: var(--dark);
+  background-color: var(--color);
+  border-color: var(--dark);
 }
 button:hover:not(.disabled) {
-  border-color: var(--color, #646cff);
-  background-color: transparent;
+  border-color: var(--border-color, var(--color, var(--dark)));
+  background-color: color-mix(in srgb, var(--color) 70%, transparent);
 }
 button:focus,
 button:focus-visible {
@@ -30,20 +34,25 @@ button:active {
 }
 .correct,
 .easy {
+  color: var(--light);
   --color: var(--green);
   background-color: var(--green);
 }
 
 .medium {
   --color: var(--yellow);
-
   background-color: var(--yellow);
 }
 
 .incorrect,
 .hard {
+  color: var(--light);
   --color: var(--red);
   background-color: var(--red);
+}
+
+.option:hover:not(.disabled) {
+  background-color: color-mix(in srgb, var(--dark) 7%, transparent);
 }
 
 .next {

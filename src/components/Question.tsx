@@ -67,12 +67,12 @@ export function Question({ question, onAnswer }: QuestionProps) {
     return (
       <section className={"option-buttons"}>
         {rawOptions.map((option, index) => {
-          const classNames = ["align-left"];
+          const classNames = ["align-left", "option"];
           if (hasAnswered) {
             classNames.push("disabled");
             if (option === question.answer) {
               classNames.push("correct");
-            } else {
+            } else if (index === selected) {
               classNames.push("incorrect");
             }
           }
@@ -94,7 +94,7 @@ export function Question({ question, onAnswer }: QuestionProps) {
         })}
       </section>
     );
-  }, [question.answer, handleAnswer, hasAnswered, rawOptions]);
+  }, [rawOptions, hasAnswered, question.answer, selected, handleAnswer]);
 
   return (
     <main className="question">
