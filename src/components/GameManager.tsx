@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useCallback, useMemo, useState } from "react";
 import { Menu } from "./Menu";
 import { GameRunner } from "./GameRunner";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
@@ -9,24 +9,31 @@ export function GameManager() {
   const [previousScore, setPreviousScore] = useState<number | null>(null);
   const queryClient = new QueryClient();
 
-  const startGame = (difficulty: string) => {
-    setDifficulty(difficulty);
-  };
+  const startGame = useCallback(
+    (difficulty: string) => {
+      setDifficulty(difficulty);
+    },
+    [setDifficulty]
+  );
 
-  const onGameOver = (score: number) => {
-    setDifficulty(null);
-    setPreviousScore(score);
-  };
+  const onGameOver = useCallback(
+    (score: number) => {
+      setDifficulty(null);
+      setPreviousScore(score);
+    },
+    [setDifficulty, setPreviousScore]
+  );
 
-  if (!difficulty) {
-    return <Menu onStartGame={startGame} previousScore={previousScore} />;
-  }
+  const content = useMemo(() => {
+    if (!difficulty) {
+      return <Menu onStartGame={startGame} previousScore={previousScore} />;
+    }
+    return <GameRunner onGameOver={onGameOver} difficulty={difficulty} />;
+  }, [difficulty, previousScore, startGame, onGameOver]);
 
   return (
     <QueryClientProvider client={queryClient}>
-      <div className="manager">
-        <GameRunner onGameOver={onGameOver} difficulty={difficulty} />
-      </div>
+      <div className="manager">{content}</div>
     </QueryClientProvider>
   );
 }
