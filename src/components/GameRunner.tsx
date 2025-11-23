@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import type { DataPoint, Question } from "../types";
 import { Question as QuestionComponent } from "./Question";
 import { useQuery } from "@tanstack/react-query";
@@ -17,7 +17,7 @@ function mapDataPointToQuestion(dataPoint: DataPoint): Question {
   };
 }
 
-const GAME_LENGTH = 20;
+const GAME_LENGTH = 3;
 
 export function GameRunner({ difficulty, onGameOver }: GameRunnerProps) {
   const [currentQuestion, setCurrentQuestion] = useState<number>(0);
@@ -32,7 +32,6 @@ export function GameRunner({ difficulty, onGameOver }: GameRunnerProps) {
       fetch(`/questions/${difficulty}.json`)
         .then((response) => response.json())
         .then((data: DataPoint[]) => {
-          // pick 20 at random
           const pickedIndexes = new Set<number>();
           while (pickedIndexes.size < GAME_LENGTH) {
             const index = Math.floor(Math.random() * data.length);
@@ -44,17 +43,28 @@ export function GameRunner({ difficulty, onGameOver }: GameRunnerProps) {
           return pickedQuestions;
         }),
   });
+  const [isTransitioning, setIsTransitioning] = useState<boolean>(false);
 
   const onAnswer = (isCorrect: boolean) => {
     if (isCorrect) {
       setScore((prev) => prev + 1);
     }
-    if (currentQuestion === questions!.length - 1) {
+    const isLastQuestion = currentQuestion === questions!.length - 1;
+    if (isLastQuestion) {
       onGameOver(score);
     } else {
       setCurrentQuestion((prev) => prev + 1);
+      setIsTransitioning(true);
     }
   };
+
+  useEffect(() => {
+    if (isTransitioning) {
+      setTimeout(() => {
+        setIsTransitioning(false);
+      }, 450);
+    }
+  }, [isTransitioning]);
 
   if (isLoading) {
     return <div>Loading...</div>;
@@ -69,7 +79,13 @@ export function GameRunner({ difficulty, onGameOver }: GameRunnerProps) {
   }
 
   return (
-    <div>
+    <div className={isTransitioning ? "scrollable scrolled" : ""}>
+      {isTransitioning && (
+        <QuestionComponent
+          onAnswer={onAnswer}
+          question={questions[currentQuestion - 1]!}
+        />
+      )}
       <QuestionComponent
         onAnswer={onAnswer}
         question={questions[currentQuestion]}

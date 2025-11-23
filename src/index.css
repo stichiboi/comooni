@@ -46,3 +46,11 @@ h1 {
   font-size: 3.2em;
   line-height: 1.1;
 }
+
+.scrollable {
+  transition: transform 0.45s ease-in-out;
+}
+
+.scrollable.scrolled {
+  transform: translateY(-100vh);
+}

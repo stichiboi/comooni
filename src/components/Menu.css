@@ -4,9 +4,9 @@ h1 {
 }
 
 .menu {
-  width: 100%;
-  display: grid;
-  align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
   justify-content: center;
   gap: 2em;
 }

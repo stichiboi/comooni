@@ -34,7 +34,7 @@ export function Menu({ onStartGame, previousScore }: MenuProps) {
   return (
     <main className="menu">
       <h1>{"Comooni"}</h1>
-      {previousScore && <p>Your previous score: {previousScore}</p>}
+      {previousScore !== null && <p>Your previous score: {previousScore}</p>}
       <section className="difficulty-buttons">
         {Object.entries(difficulties).map(([key, difficulty]) => (
           <Button key={key} className={key} onClick={() => onStartGame(key)}>
