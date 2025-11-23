@@ -18,8 +18,8 @@ export function ProgressBar({
         className="progress-bar-fill"
         style={{
           width: `${progress * 100}%`,
-          background: `linear-gradient(to right, ${color}, ${color})`,
-          boxShadow: `0 2px 4px ${color}4D`,
+          background: color,
+          boxShadow: `0 2px 4px color-mix(in srgb, ${color} 30%, transparent)`,
         }}
       />
       {label && <span className="progress-bar-label">{label}</span>}

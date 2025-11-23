@@ -19,7 +19,7 @@ function mapDataPointToQuestion(dataPoint: DataPoint): Question {
   };
 }
 
-const GAME_LENGTH = 3;
+const GAME_LENGTH = 10;
 
 export function GameRunner({ difficulty, onGameOver }: GameRunnerProps) {
   const [currentQuestion, setCurrentQuestion] = useState<number>(0);
@@ -81,21 +81,23 @@ export function GameRunner({ difficulty, onGameOver }: GameRunnerProps) {
   }
 
   const difficultyColors: Record<string, string> = {
-    easy: "#4CAF50",
-    medium: "#FF9800",
-    hard: "#F44336",
+    easy: "var(--green)",
+    medium: "var(--yellow)",
+    hard: "var(--red)",
   };
 
   return (
     <div className="game-runner">
-      <header>
+      <header className="header">
         <ProgressBar
           progress={currentQuestion / questions.length}
           label={`${currentQuestion} / ${questions.length}`}
-          color={difficultyColors[difficulty] || "#58cc02"}
+          color={difficultyColors[difficulty] || "var(--green)"}
         />
       </header>
-      <div className={isTransitioning ? "scrollable scrolled" : ""}>
+      <div
+        className={"game-content" + (isTransitioning ? " scrollable scrolled" : "")}
+      >
         {isTransitioning && (
           <QuestionComponent
             onAnswer={onAnswer}
