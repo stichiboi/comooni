@@ -79,7 +79,7 @@
   },
   {
     "nome_comune": "Napoli",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.8400998,
     "lon": 14.2500966,
     "superficie_kmq": 119.0262,
@@ -469,7 +469,7 @@
   },
   {
     "nome_comune": "Giugliano in Campania",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.9282852,
     "lon": 14.2011141,
     "superficie_kmq": 94.6424,
@@ -950,7 +950,7 @@
   },
   {
     "nome_comune": "Torre del Greco",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.7864447,
     "lon": 14.3658584,
     "superficie_kmq": 30.6505,
@@ -976,7 +976,7 @@
   },
   {
     "nome_comune": "Pozzuoli",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.8447187,
     "lon": 14.0931386,
     "superficie_kmq": 43.5325,
@@ -1041,7 +1041,7 @@
   },
   {
     "nome_comune": "Casoria",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.9051396,
     "lon": 14.2905447,
     "superficie_kmq": 12.2521,
@@ -1223,7 +1223,7 @@
   },
   {
     "nome_comune": "Castellammare di Stabia",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.6945288,
     "lon": 14.4803261,
     "superficie_kmq": 18.1777,
@@ -1249,7 +1249,7 @@
   },
   {
     "nome_comune": "Afragola",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.922726,
     "lon": 14.3104275,
     "superficie_kmq": 17.755,
@@ -1261,7 +1261,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Afragola-Bandiera.svg/330px-Afragola-Bandiera.svg.png"
   },
   {
-    "nome_comune": "Legnano",
+    "nome_comune": "LegNAo",
     "codice_provincia": "MI",
     "lat": 45.5953733,
     "lon": 8.9188843,
@@ -1271,7 +1271,7 @@
     "provincia": "Milano",
     "regione": "Lombardia",
     "abitanti": 60851,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Legnano-Bandiera.svg/330px-Legnano-Bandiera.svg.png"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/LegNAo-Bandiera.svg/330px-LegNAo-Bandiera.svg.png"
   },
   {
     "nome_comune": "Viareggio",
@@ -1366,7 +1366,7 @@
   },
   {
     "nome_comune": "Acerra",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.9488464,
     "lon": 14.371327,
     "superficie_kmq": 54.7528,
@@ -1405,7 +1405,7 @@
   },
   {
     "nome_comune": "Marano di Napoli",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.8981459,
     "lon": 14.190969,
     "superficie_kmq": 15.3572,
@@ -1730,7 +1730,7 @@
   },
   {
     "nome_comune": "Portici",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.8249752,
     "lon": 14.3552331,
     "superficie_kmq": 4.6414,
@@ -1937,7 +1937,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Chieti.svg/330px-Flag_of_Chieti.svg.png"
   },
   {
-    "nome_comune": "Paderno Dugnano",
+    "nome_comune": "Paderno DugNAo",
     "codice_provincia": "MI",
     "lat": 45.5685732,
     "lon": 9.1660538,
@@ -1947,7 +1947,7 @@
     "provincia": "Milano",
     "regione": "Lombardia",
     "abitanti": 47782,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Chiesa_Santa_Maria_Nascente_-_frazione_di_Paderno_a_Paderno_Dugnano.JPG/330px-Chiesa_Santa_Maria_Nascente_-_frazione_di_Paderno_a_Paderno_Dugnano.JPG"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Chiesa_Santa_Maria_Nascente_-_frazione_di_Paderno_a_Paderno_DugNAo.JPG/330px-Chiesa_Santa_Maria_Nascente_-_frazione_di_Paderno_a_Paderno_DugNAo.JPG"
   },
   {
     "nome_comune": "Scafati",
@@ -2107,7 +2107,7 @@
   },
   {
     "nome_comune": "Casalnuovo di Napoli",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.9147654,
     "lon": 14.3511785,
     "superficie_kmq": 7.589,
@@ -2380,7 +2380,7 @@
   },
   {
     "nome_comune": "San Giorgio a Cremano",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.8296536,
     "lon": 14.334082,
     "superficie_kmq": 4.1661,
@@ -2601,7 +2601,7 @@
   },
   {
     "nome_comune": "Pomigliano d'Arco",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.9069813,
     "lon": 14.3929288,
     "superficie_kmq": 12.0015,
@@ -2627,7 +2627,7 @@
   },
   {
     "nome_comune": "Torre Annunziata",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.754798,
     "lon": 14.4484649,
     "superficie_kmq": 7.5974,
@@ -2874,7 +2874,7 @@
   },
   {
     "nome_comune": "Melito di Napoli",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.9239621,
     "lon": 14.2327474,
     "superficie_kmq": 3.8165,
@@ -2900,7 +2900,7 @@
   },
   {
     "nome_comune": "Caivano",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.9573265,
     "lon": 14.3017409,
     "superficie_kmq": 27.0931,
@@ -3003,8 +3003,8 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Reno_a_Casalecchio_di_Reno_%28BO%29.jpg/330px-Reno_a_Casalecchio_di_Reno_%28BO%29.jpg"
   },
   {
-    "nome_comune": "Mugnano di Napoli",
-    "codice_provincia": NaN,
+    "nome_comune": "MugNAo di Napoli",
+    "codice_provincia": NA,
     "lat": 40.9094636,
     "lon": 14.2064944,
     "superficie_kmq": 5.0934,
@@ -3013,7 +3013,7 @@
     "provincia": "Napoli",
     "regione": "Campania",
     "abitanti": 35259,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Piazza_Municipio_Mugnano_1936.jpg/330px-Piazza_Municipio_Mugnano_1936.jpg"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Piazza_Municipio_MugNAo_1936.jpg/330px-Piazza_Municipio_MugNAo_1936.jpg"
   },
   {
     "nome_comune": "Cassino",
@@ -3160,7 +3160,7 @@
   },
   {
     "nome_comune": "Nola",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.9262297,
     "lon": 14.5268057,
     "superficie_kmq": 38.7909,
@@ -3238,7 +3238,7 @@
   },
   {
     "nome_comune": "Somma Vesuviana",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.8713316,
     "lon": 14.4382419,
     "superficie_kmq": 30.9351,
@@ -3446,7 +3446,7 @@
   },
   {
     "nome_comune": "Arzano",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.9105451,
     "lon": 14.2692063,
     "superficie_kmq": 4.7977,
@@ -3472,7 +3472,7 @@
   },
   {
     "nome_comune": "Villaricca",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.9216421,
     "lon": 14.1938225,
     "superficie_kmq": 6.9362,
@@ -3615,7 +3615,7 @@
   },
   {
     "nome_comune": "San Giuseppe Vesuviano",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.8341961,
     "lon": 14.5061744,
     "superficie_kmq": 14.4719,
@@ -3666,7 +3666,7 @@
     "immagine": null
   },
   {
-    "nome_comune": "Rosignano Marittimo",
+    "nome_comune": "RosigNAo Marittimo",
     "codice_provincia": "LI",
     "lat": 43.3506483,
     "lon": 10.4566096,
@@ -3676,7 +3676,7 @@
     "provincia": "Livorno",
     "regione": "Toscana",
     "abitanti": 30099,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Castello_di_rosignano_marittimo_02.JPG/330px-Castello_di_rosignano_marittimo_02.JPG"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Castello_di_rosigNAo_marittimo_02.JPG/330px-Castello_di_rosigNAo_marittimo_02.JPG"
   },
   {
     "nome_comune": "Grottaglie",
@@ -3797,7 +3797,7 @@
   },
   {
     "nome_comune": "Marigliano",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.9251279,
     "lon": 14.457043,
     "superficie_kmq": 22.7015,
@@ -3875,7 +3875,7 @@
   },
   {
     "nome_comune": "Frattamaggiore",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.940829,
     "lon": 14.2723257,
     "superficie_kmq": 5.5015,
@@ -4017,8 +4017,8 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/San_Miniato-Bandiera.svg/330px-San_Miniato-Bandiera.svg.png"
   },
   {
-    "nome_comune": "Gragnano",
-    "codice_provincia": NaN,
+    "nome_comune": "GragNAo",
+    "codice_provincia": NA,
     "lat": 40.6897428,
     "lon": 14.5210102,
     "superficie_kmq": 14.7377,
@@ -4290,7 +4290,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Giarre_Flag.jpg/330px-Giarre_Flag.jpg"
   },
   {
-    "nome_comune": "Pontecagnano Faiano",
+    "nome_comune": "PontecagNAo Faiano",
     "codice_provincia": "SA",
     "lat": 40.6427639,
     "lon": 14.8734195,
@@ -4300,7 +4300,7 @@
     "provincia": "Salerno",
     "regione": "Campania",
     "abitanti": 26448,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Pontecagnano_%28Panorama%29.JPG/330px-Pontecagnano_%28Panorama%29.JPG"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/PontecagNAo_%28Panorama%29.JPG/330px-PontecagNAo_%28Panorama%29.JPG"
   },
   {
     "nome_comune": "Gioia del Colle",
@@ -4485,7 +4485,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_Roseto_degli_Abruzzi.png/330px-Flag_of_Roseto_degli_Abruzzi.png"
   },
   {
-    "nome_comune": "Arzignano",
+    "nome_comune": "ArzigNAo",
     "codice_provincia": "VI",
     "lat": 45.5211395,
     "lon": 11.3323459,
@@ -4495,7 +4495,7 @@
     "provincia": "Vicenza",
     "regione": "Veneto",
     "abitanti": 25866,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Arzignano_da_Brendola.JPG/330px-Arzignano_da_Brendola.JPG"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/ArzigNAo_da_Brendola.JPG/330px-ArzigNAo_da_Brendola.JPG"
   },
   {
     "nome_comune": "Porto Sant'Elpidio",
@@ -4525,7 +4525,7 @@
   },
   {
     "nome_comune": "Volla",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.8788851,
     "lon": 14.3439901,
     "superficie_kmq": 6.2969,
@@ -4576,7 +4576,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_Seriate.png/330px-Flag_of_Seriate.png"
   },
   {
-    "nome_comune": "Putignano",
+    "nome_comune": "PutigNAo",
     "codice_provincia": "BA",
     "lat": 40.8497063,
     "lon": 17.1204885,
@@ -4586,7 +4586,7 @@
     "provincia": "Bari",
     "regione": "Puglia",
     "abitanti": 25694,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Putignano%2C_piazza_plebiscito_di_notte_01.jpg/330px-Putignano%2C_piazza_plebiscito_di_notte_01.jpg"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/PutigNAo%2C_piazza_plebiscito_di_notte_01.jpg/330px-PutigNAo%2C_piazza_plebiscito_di_notte_01.jpg"
   },
   {
     "nome_comune": "Erice",
@@ -4603,7 +4603,7 @@
   },
   {
     "nome_comune": "Boscoreale",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.7752706,
     "lon": 14.4752793,
     "superficie_kmq": 11.4559,
@@ -4772,7 +4772,7 @@
   },
   {
     "nome_comune": "Bacoli",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.7965649,
     "lon": 14.0778473,
     "superficie_kmq": 13.7076,
@@ -4785,7 +4785,7 @@
   },
   {
     "nome_comune": "Qualiano",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.9200907,
     "lon": 14.150898,
     "superficie_kmq": 7.5885,
@@ -5253,7 +5253,7 @@
   },
   {
     "nome_comune": "Poggiomarino",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.798631,
     "lon": 14.5408294,
     "superficie_kmq": 12.9619,
@@ -5604,7 +5604,7 @@
   },
   {
     "nome_comune": "Cardito",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.9464136,
     "lon": 14.2953088,
     "superficie_kmq": 3.224,
@@ -6111,7 +6111,7 @@
   },
   {
     "nome_comune": "Vico Equense",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.6629487,
     "lon": 14.427733,
     "superficie_kmq": 28.9432,
@@ -6825,7 +6825,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Bracciano.png/330px-Flag_of_Bracciano.png"
   },
   {
-    "nome_comune": "Pavullo nel Frignano",
+    "nome_comune": "Pavullo nel FrigNAo",
     "codice_provincia": "MO",
     "lat": 44.3394935,
     "lon": 10.8339285,
@@ -6835,7 +6835,7 @@
     "provincia": "Modena",
     "regione": "Emilia-Romagna",
     "abitanti": 18405,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Frignano_8457_2x_filtered.JPG/330px-Frignano_8457_2x_filtered.JPG"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/FrigNAo_8457_2x_filtered.JPG/330px-FrigNAo_8457_2x_filtered.JPG"
   },
   {
     "nome_comune": "Borgo San Lorenzo",
@@ -6864,7 +6864,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Castello.jpg/330px-Castello.jpg"
   },
   {
-    "nome_comune": "Savignano sul Rubicone",
+    "nome_comune": "SavigNAo sul Rubicone",
     "codice_provincia": "FC",
     "lat": 44.0920902,
     "lon": 12.399089,
@@ -6874,11 +6874,11 @@
     "provincia": "Forlì-Cesena",
     "regione": "Emilia-Romagna",
     "abitanti": 18174,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_Savignano_sul_Rubicone.svg/330px-Flag_of_Savignano_sul_Rubicone.svg.png"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_SavigNAo_sul_Rubicone.svg/330px-Flag_of_SavigNAo_sul_Rubicone.svg.png"
   },
   {
     "nome_comune": "Casavatore",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.8998198,
     "lon": 14.2738849,
     "superficie_kmq": 1.4951,
@@ -6890,7 +6890,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Casavatore-Bandiera.svg/330px-Casavatore-Bandiera.svg.png"
   },
   {
-    "nome_comune": "Melegnano",
+    "nome_comune": "MelegNAo",
     "codice_provincia": "MI",
     "lat": 45.3575539,
     "lon": 9.3243278,
@@ -6900,7 +6900,7 @@
     "provincia": "Milano",
     "regione": "Lombardia",
     "abitanti": 18131,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Melegnano-Bandiera.svg/300px-Melegnano-Bandiera.svg.png"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/MelegNAo-Bandiera.svg/300px-MelegNAo-Bandiera.svg.png"
   },
   {
     "nome_comune": "Bronte",
@@ -7255,7 +7255,7 @@
   },
   {
     "nome_comune": "Forio",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.7376538,
     "lon": 13.8574085,
     "superficie_kmq": 12.852,
@@ -7345,7 +7345,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Beinasco_municipio.jpg"
   },
   {
-    "nome_comune": "Polignano a Mare",
+    "nome_comune": "PoligNAo a Mare",
     "codice_provincia": "BA",
     "lat": 40.9916543,
     "lon": 17.2193566,
@@ -7355,7 +7355,7 @@
     "provincia": "Bari",
     "regione": "Puglia",
     "abitanti": 17295,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Polignano_a_mare_-Lama_Monachile.jpg/330px-Polignano_a_mare_-Lama_Monachile.jpg"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/PoligNAo_a_mare_-Lama_Monachile.jpg/330px-PoligNAo_a_mare_-Lama_Monachile.jpg"
   },
   {
     "nome_comune": "Cerea",
@@ -7372,7 +7372,7 @@
   },
   {
     "nome_comune": "Terzigno",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.809938,
     "lon": 14.4964045,
     "superficie_kmq": 23.6182,
@@ -7476,7 +7476,7 @@
   },
   {
     "nome_comune": "Grumo Nevano",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.9323455,
     "lon": 14.2602098,
     "superficie_kmq": 2.9952,
@@ -7658,7 +7658,7 @@
   },
   {
     "nome_comune": "Cercola",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.8600258,
     "lon": 14.358906,
     "superficie_kmq": 3.8113,
@@ -7761,7 +7761,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Comune_di_Castenaso_Alessandro_Sgarzi_Ph_%283%29.jpg/330px-Comune_di_Castenaso_Alessandro_Sgarzi_Ph_%283%29.jpg"
   },
   {
-    "nome_comune": "Alpignano",
+    "nome_comune": "AlpigNAo",
     "codice_provincia": "TO",
     "lat": 45.0944686,
     "lon": 7.5242628,
@@ -7771,7 +7771,7 @@
     "provincia": "Torino",
     "regione": "Piemonte",
     "abitanti": 16567,
-    "immagine": "https://upload.wikimedia.org/wikipedia/it/4/4f/Alpignano-Gonfalone.png"
+    "immagine": "https://upload.wikimedia.org/wikipedia/it/4/4f/AlpigNAo-Gonfalone.png"
   },
   {
     "nome_comune": "Vedelago",
@@ -7996,7 +7996,7 @@
   },
   {
     "nome_comune": "Palma Campania",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.8685878,
     "lon": 14.5551642,
     "superficie_kmq": 20.4047,
@@ -8021,7 +8021,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/06019_Umbertide%2C_Province_of_Perugia%2C_Italy_-_panoramio.jpg/330px-06019_Umbertide%2C_Province_of_Perugia%2C_Italy_-_panoramio.jpg"
   },
   {
-    "nome_comune": "Nonantola",
+    "nome_comune": "NoNAtola",
     "codice_provincia": "MO",
     "lat": 44.6771672,
     "lon": 11.043577,
@@ -8113,7 +8113,7 @@
   },
   {
     "nome_comune": "Brusciano",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.9206208,
     "lon": 14.4225514,
     "superficie_kmq": 5.6257,
@@ -8620,7 +8620,7 @@
   },
   {
     "nome_comune": "Frattaminore",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.9555882,
     "lon": 14.2708843,
     "superficie_kmq": 2.0247,
@@ -8815,7 +8815,7 @@
   },
   {
     "nome_comune": "Sorrento",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.62711,
     "lon": 14.3751883,
     "superficie_kmq": 10.1249,
@@ -9113,7 +9113,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Vinci-Bandiera.svg/330px-Vinci-Bandiera.svg.png"
   },
   {
-    "nome_comune": "Carmignano",
+    "nome_comune": "CarmigNAo",
     "codice_provincia": "PO",
     "lat": 43.8141069,
     "lon": 11.0182895,
@@ -9123,7 +9123,7 @@
     "provincia": "Prato",
     "regione": "Toscana",
     "abitanti": 14542,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Carmignano_%28Italia%29-Bandiera.svg/330px-Carmignano_%28Italia%29-Bandiera.svg.png"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CarmigNAo_%28Italia%29-Bandiera.svg/330px-CarmigNAo_%28Italia%29-Bandiera.svg.png"
   },
   {
     "nome_comune": "San Giovanni Teatino",
@@ -9478,7 +9478,7 @@
   },
   {
     "nome_comune": "Massa Lubrense",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.6115335,
     "lon": 14.3434159,
     "superficie_kmq": 20.0163,
@@ -9594,7 +9594,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Piazza_Libert%C3%A0%2C_Torre_Civica_e_Oratorio_%28Travagliato%29.JPG/330px-Piazza_Libert%C3%A0%2C_Torre_Civica_e_Oratorio_%28Travagliato%29.JPG"
   },
   {
-    "nome_comune": "San Ferdinando di Puglia",
+    "nome_comune": "San FerdiNAdo di Puglia",
     "codice_provincia": "BT",
     "lat": 41.3006605,
     "lon": 16.0697122,
@@ -9789,7 +9789,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Monte_Castello_-_Castel_San_Giorgio.jpg/330px-Monte_Castello_-_Castel_San_Giorgio.jpg"
   },
   {
-    "nome_comune": "Cervignano del Friuli",
+    "nome_comune": "CervigNAo del Friuli",
     "codice_provincia": "UD",
     "lat": 45.8234677,
     "lon": 13.3343357,
@@ -9799,7 +9799,7 @@
     "provincia": "Udine",
     "regione": "Friuli-Venezia Giulia",
     "abitanti": 13762,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Cervignano.jpg/330px-Cervignano.jpg"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/CervigNAo.jpg/330px-CervigNAo.jpg"
   },
   {
     "nome_comune": "Trepuzzi",
@@ -10400,7 +10400,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Palombara_Sabina_panorama.JPG/330px-Palombara_Sabina_panorama.JPG"
   },
   {
-    "nome_comune": "Gricignano di Aversa",
+    "nome_comune": "GricigNAo di Aversa",
     "codice_provincia": "CE",
     "lat": 40.9813873,
     "lon": 14.2325877,
@@ -10410,7 +10410,7 @@
     "provincia": "Caserta",
     "regione": "Campania",
     "abitanti": 13120,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/NATO_base_-_Gricignano_di_Aversa.jpg/330px-NATO_base_-_Gricignano_di_Aversa.jpg"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/NATO_base_-_GricigNAo_di_Aversa.jpg/330px-NATO_base_-_GricigNAo_di_Aversa.jpg"
   },
   {
     "nome_comune": "Calcinato",
@@ -10518,7 +10518,7 @@
   },
   {
     "nome_comune": "Casandrino",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.9356223,
     "lon": 14.248903,
     "superficie_kmq": 3.2935,
@@ -10934,7 +10934,7 @@
   },
   {
     "nome_comune": "Calvizzano",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.9067051,
     "lon": 14.1898941,
     "superficie_kmq": 4.0339,
@@ -11077,7 +11077,7 @@
   },
   {
     "nome_comune": "Pollena Trocchia",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.8560034,
     "lon": 14.379524,
     "superficie_kmq": 7.8743,
@@ -11219,7 +11219,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_of_Morbegno.svg/330px-Flag_of_Morbegno.svg.png"
   },
   {
-    "nome_comune": "Fagnano Olona",
+    "nome_comune": "FagNAo Olona",
     "codice_provincia": "VA",
     "lat": 45.6696277,
     "lon": 8.8740644,
@@ -11229,7 +11229,7 @@
     "provincia": "Varese",
     "regione": "Lombardia",
     "abitanti": 12387,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Fagnano1.JPG/330px-Fagnano1.JPG"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/FagNAo1.JPG/330px-FagNAo1.JPG"
   },
   {
     "nome_comune": "Anzola dell'Emilia",
@@ -11363,7 +11363,7 @@
   },
   {
     "nome_comune": "Cicciano",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.9635007,
     "lon": 14.5372175,
     "superficie_kmq": 7.5185,
@@ -11467,7 +11467,7 @@
   },
   {
     "nome_comune": "Piano di Sorrento",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.6329973,
     "lon": 14.4115334,
     "superficie_kmq": 7.2987,
@@ -11493,7 +11493,7 @@
   },
   {
     "nome_comune": "San Gennaro Vesuviano",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.861197,
     "lon": 14.5295044,
     "superficie_kmq": 7.0652,
@@ -11909,7 +11909,7 @@
   },
   {
     "nome_comune": "Santa Maria la Carità",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.7209253,
     "lon": 14.512983,
     "superficie_kmq": 4.1128,
@@ -12026,7 +12026,7 @@
   },
   {
     "nome_comune": "Monte di Procida",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.7946367,
     "lon": 14.0552946,
     "superficie_kmq": 3.7201,
@@ -12273,7 +12273,7 @@
   },
   {
     "nome_comune": "Crispano",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.9525529,
     "lon": 14.2852554,
     "superficie_kmq": 2.1665,
@@ -12870,7 +12870,7 @@
     "immagine": null
   },
   {
-    "nome_comune": "Campagnano di Roma",
+    "nome_comune": "CampagNAo di Roma",
     "codice_provincia": "RM",
     "lat": 42.1408192,
     "lon": 12.3835099,
@@ -13403,7 +13403,7 @@
     "immagine": null
   },
   {
-    "nome_comune": "Trevignano",
+    "nome_comune": "TrevigNAo",
     "codice_provincia": "TV",
     "lat": 45.7427447,
     "lon": 12.08924,
@@ -13413,7 +13413,7 @@
     "provincia": "Treviso",
     "regione": "Veneto",
     "abitanti": 10698,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Trevignano_-_chiesa_parrocchiale_e_campanile.jpg/330px-Trevignano_-_chiesa_parrocchiale_e_campanile.jpg"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TrevigNAo_-_chiesa_parrocchiale_e_campanile.jpg/330px-TrevigNAo_-_chiesa_parrocchiale_e_campanile.jpg"
   },
   {
     "nome_comune": "Belmonte Mezzagno",
@@ -13923,7 +13923,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bandiera_citt%C3%A0_di_Atripalda.png/330px-Bandiera_citt%C3%A0_di_Atripalda.png"
   },
   {
-    "nome_comune": "Rignano Flaminio",
+    "nome_comune": "RigNAo Flaminio",
     "codice_provincia": "RM",
     "lat": 42.2100619,
     "lon": 12.4810409,
@@ -14014,7 +14014,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ravanusa.jpg/330px-Ravanusa.jpg"
   },
   {
-    "nome_comune": "Urgnano",
+    "nome_comune": "UrgNAo",
     "codice_provincia": "BG",
     "lat": 45.5987508,
     "lon": 9.6912546,
@@ -14024,7 +14024,7 @@
     "provincia": "Bergamo",
     "regione": "Lombardia",
     "abitanti": 10138,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Urgnano-Frazione_Basella.jpg/330px-Urgnano-Frazione_Basella.jpg"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/UrgNAo-Frazione_Basella.jpg/330px-UrgNAo-Frazione_Basella.jpg"
   },
   {
     "nome_comune": "Fiuggi",
@@ -14314,7 +14314,7 @@
   },
   {
     "nome_comune": "Procida",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.7651817,
     "lon": 14.0239517,
     "superficie_kmq": 4.224,
@@ -14405,7 +14405,7 @@
   },
   {
     "nome_comune": "Barano d'Ischia",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.7089192,
     "lon": 13.9177654,
     "superficie_kmq": 10.7513,
@@ -14730,7 +14730,7 @@
   },
   {
     "nome_comune": "Boscotrecase",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.7761725,
     "lon": 14.4627505,
     "superficie_kmq": 7.3668,
@@ -15054,7 +15054,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Piazzabagnolo.jpg/330px-Piazzabagnolo.jpg"
   },
   {
-    "nome_comune": "Savignano sul Panaro",
+    "nome_comune": "SavigNAo sul Panaro",
     "codice_provincia": "MO",
     "lat": 44.4795838,
     "lon": 11.0337552,
@@ -15275,7 +15275,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gatteo_004.jpg/330px-Gatteo_004.jpg"
   },
   {
-    "nome_comune": "San Giovanni in Marignano",
+    "nome_comune": "San Giovanni in MarigNAo",
     "codice_provincia": "RN",
     "lat": 43.939304,
     "lon": 12.7136116,
@@ -15285,7 +15285,7 @@
     "provincia": "Rimini",
     "regione": "Emilia-Romagna",
     "abitanti": 9429,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/San_Giovanni_Marignano.jpg/330px-San_Giovanni_Marignano.jpg"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/San_Giovanni_MarigNAo.jpg/330px-San_Giovanni_MarigNAo.jpg"
   },
   {
     "nome_comune": "Cermenate",
@@ -15340,7 +15340,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Vanzago_-_chiesa_dei_Santi_Ippolito_e_Cassiano.jpg/330px-Vanzago_-_chiesa_dei_Santi_Ippolito_e_Cassiano.jpg"
   },
   {
-    "nome_comune": "Bisignano",
+    "nome_comune": "BisigNAo",
     "codice_provincia": "CS",
     "lat": 39.5134255,
     "lon": 16.2868148,
@@ -15350,7 +15350,7 @@
     "provincia": "Cosenza",
     "regione": "Calabria",
     "abitanti": 9388,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bisignano.jpeg/330px-Bisignano.jpeg"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/BisigNAo.jpeg/330px-BisigNAo.jpeg"
   },
   {
     "nome_comune": "Volterra",
@@ -15613,7 +15613,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Siano_%28vista_dalla_sella_della_Madonna_del_Carmine_-_Bracigliano%29.jpg/330px-Siano_%28vista_dalla_sella_della_Madonna_del_Carmine_-_Bracigliano%29.jpg"
   },
   {
-    "nome_comune": "Carignano",
+    "nome_comune": "CarigNAo",
     "codice_provincia": "TO",
     "lat": 44.9080171,
     "lon": 7.6760348,
@@ -15623,7 +15623,7 @@
     "provincia": "Torino",
     "regione": "Piemonte",
     "abitanti": 9238,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Portici_ed_abside_del_duomo%2C_Carignano%2C_Italia.jpg/330px-Portici_ed_abside_del_duomo%2C_Carignano%2C_Italia.jpg"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Portici_ed_abside_del_duomo%2C_CarigNAo%2C_Italia.jpg/330px-Portici_ed_abside_del_duomo%2C_CarigNAo%2C_Italia.jpg"
   },
   {
     "nome_comune": "Ruffano",
@@ -15783,7 +15783,7 @@
   },
   {
     "nome_comune": "Striano",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.8138081,
     "lon": 14.5778294,
     "superficie_kmq": 7.7921,
@@ -15886,7 +15886,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lacchiarella-Gonfalone.svg/330px-Lacchiarella-Gonfalone.svg.png"
   },
   {
-    "nome_comune": "Montagnana",
+    "nome_comune": "MontagNAa",
     "codice_provincia": "PD",
     "lat": 45.2316688,
     "lon": 11.4669891,
@@ -15896,7 +15896,7 @@
     "provincia": "Padova",
     "regione": "Veneto",
     "abitanti": 9118,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Montagnana-Bandiera.svg/330px-Montagnana-Bandiera.svg.png"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/MontagNAa-Bandiera.svg/330px-MontagNAa-Bandiera.svg.png"
   },
   {
     "nome_comune": "Borgosatollo",
@@ -16406,7 +16406,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mendicino_la_Torre_-_panoramio.jpg/330px-Mendicino_la_Torre_-_panoramio.jpg"
   },
   {
-    "nome_comune": "Frignano",
+    "nome_comune": "FrigNAo",
     "codice_provincia": "CE",
     "lat": 40.9932361,
     "lon": 14.1780914,
@@ -16887,7 +16887,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Cervinara-Villa_Comunale.jpg/330px-Cervinara-Villa_Comunale.jpg"
   },
   {
-    "nome_comune": "Folignano",
+    "nome_comune": "FoligNAo",
     "codice_provincia": "AP",
     "lat": 42.8210004,
     "lon": 13.6325695,
@@ -16897,7 +16897,7 @@
     "provincia": "Ascoli Piceno",
     "regione": "Marche",
     "abitanti": 8667,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Folignano_-_Comune_di_Folignano_-_2023-09-18_23-14-13_004.jpg/330px-Folignano_-_Comune_di_Folignano_-_2023-09-18_23-14-13_004.jpg"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/FoligNAo_-_Comune_di_FoligNAo_-_2023-09-18_23-14-13_004.jpg/330px-FoligNAo_-_Comune_di_FoligNAo_-_2023-09-18_23-14-13_004.jpg"
   },
   {
     "nome_comune": "Roverbella",
@@ -17122,7 +17122,7 @@
   },
   {
     "nome_comune": "San Sebastiano al Vesuvio",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.8416248,
     "lon": 14.3703907,
     "superficie_kmq": 2.8156,
@@ -17200,7 +17200,7 @@
   },
   {
     "nome_comune": "Trecase",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.7706962,
     "lon": 14.4365275,
     "superficie_kmq": 6.2983,
@@ -17264,7 +17264,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Foto_campanile_020.jpg/330px-Foto_campanile_020.jpg"
   },
   {
-    "nome_comune": "Rignano sull'Arno",
+    "nome_comune": "RigNAo sull'Arno",
     "codice_provincia": "FI",
     "lat": 43.721872,
     "lon": 11.4535273,
@@ -17274,7 +17274,7 @@
     "provincia": "Firenze",
     "regione": "Toscana",
     "abitanti": 8519,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rignano_panorama.JPG/330px-Rignano_panorama.JPG"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/RigNAo_panorama.JPG/330px-RigNAo_panorama.JPG"
   },
   {
     "nome_comune": "Morlupo",
@@ -17369,7 +17369,7 @@
   },
   {
     "nome_comune": "Sant'Agnello",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.6305059,
     "lon": 14.3989057,
     "superficie_kmq": 4.0578,
@@ -17638,7 +17638,7 @@
     "provincia": "Milano",
     "regione": "Lombardia",
     "abitanti": 8374,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/3772BusseroVillaSioliLegnani.JPG/330px-3772BusseroVillaSioliLegnani.JPG"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/3772BusseroVillaSioliLegNAi.JPG/330px-3772BusseroVillaSioliLegNAi.JPG"
   },
   {
     "nome_comune": "Laveno-Mombello",
@@ -17953,7 +17953,7 @@
     "immagine": null
   },
   {
-    "nome_comune": "Fermignano",
+    "nome_comune": "FermigNAo",
     "codice_provincia": "PU",
     "lat": 43.6765005,
     "lon": 12.6452354,
@@ -17963,7 +17963,7 @@
     "provincia": "Pesaro e Urbino",
     "regione": "Marche",
     "abitanti": 8258,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fermignano.jpg/330px-Fermignano.jpg"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/FermigNAo.jpg/330px-FermigNAo.jpg"
   },
   {
     "nome_comune": "Sovico",
@@ -18174,7 +18174,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Chiesa_di_San_Filastro_%28Villongo%29_18.jpg/330px-Chiesa_di_San_Filastro_%28Villongo%29_18.jpg"
   },
   {
-    "nome_comune": "Fusignano",
+    "nome_comune": "FusigNAo",
     "codice_provincia": "RA",
     "lat": 44.4680153,
     "lon": 11.9593,
@@ -18552,7 +18552,7 @@
   },
   {
     "nome_comune": "Mariglianella",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.9299327,
     "lon": 14.4388346,
     "superficie_kmq": 3.3372,
@@ -18994,7 +18994,7 @@
   },
   {
     "nome_comune": "Castello di Cisterna",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.916048,
     "lon": 14.4101679,
     "superficie_kmq": 3.9518,
@@ -19007,7 +19007,7 @@
   },
   {
     "nome_comune": "Agerola",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.6379506,
     "lon": 14.5448355,
     "superficie_kmq": 19.9249,
@@ -19500,7 +19500,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Macherio-Canonica_stazione_ferr.JPG/330px-Macherio-Canonica_stazione_ferr.JPG"
   },
   {
-    "nome_comune": "Arcugnano",
+    "nome_comune": "ArcugNAo",
     "codice_provincia": "VI",
     "lat": 45.4961743,
     "lon": 11.5512513,
@@ -19669,7 +19669,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/90012_Caccamo_PA%2C_Italy_-_panoramio_%286%29.jpg/330px-90012_Caccamo_PA%2C_Italy_-_panoramio_%286%29.jpg"
   },
   {
-    "nome_comune": "Carmignano di Brenta",
+    "nome_comune": "CarmigNAo di Brenta",
     "codice_provincia": "PD",
     "lat": 45.6290042,
     "lon": 11.6995169,
@@ -19679,7 +19679,7 @@
     "provincia": "Padova",
     "regione": "Veneto",
     "abitanti": 7527,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Carmignano%2C_cartiera_Biga_%28xilografia%29.jpg/330px-Carmignano%2C_cartiera_Biga_%28xilografia%29.jpg"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/CarmigNAo%2C_cartiera_Biga_%28xilografia%29.jpg/330px-CarmigNAo%2C_cartiera_Biga_%28xilografia%29.jpg"
   },
   {
     "nome_comune": "San Colombano al Lambro",
@@ -19851,7 +19851,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Castiglioneolona0003.jpg/330px-Castiglioneolona0003.jpg"
   },
   {
-    "nome_comune": "San Gimignano",
+    "nome_comune": "San GimigNAo",
     "codice_provincia": "SI",
     "lat": 43.467531,
     "lon": 11.0430697,
@@ -19861,7 +19861,7 @@
     "provincia": "Siena",
     "regione": "Toscana",
     "abitanti": 7461,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Panorama_San_Gimignano.jpg/330px-Panorama_San_Gimignano.jpg"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Panorama_San_GimigNAo.jpg/330px-Panorama_San_GimigNAo.jpg"
   },
   {
     "nome_comune": "Cles",
@@ -20073,7 +20073,7 @@
   },
   {
     "nome_comune": "Casamicciola Terme",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.7466033,
     "lon": 13.9074731,
     "superficie_kmq": 6.0554,
@@ -20215,7 +20215,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/393CambiagoSZenone.JPG/330px-393CambiagoSZenone.JPG"
   },
   {
-    "nome_comune": "Pregnana Milanese",
+    "nome_comune": "PregNAa Milanese",
     "codice_provincia": "MI",
     "lat": 45.5168227,
     "lon": 9.0090587,
@@ -21034,7 +21034,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Centro_di_Noventa_di_Piave.jpg/330px-Centro_di_Noventa_di_Piave.jpg"
   },
   {
-    "nome_comune": "Tresignana",
+    "nome_comune": "TresigNAa",
     "codice_provincia": "FE",
     "lat": 44.8177907,
     "lon": 11.8967981,
@@ -21190,7 +21190,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Motte_di_Castello_di_Godego_%28TV%29.png/330px-Motte_di_Castello_di_Godego_%28TV%29.png"
   },
   {
-    "nome_comune": "Lignano Sabbiadoro",
+    "nome_comune": "LigNAo Sabbiadoro",
     "codice_provincia": "UD",
     "lat": 45.6889113,
     "lon": 13.1292478,
@@ -21200,7 +21200,7 @@
     "provincia": "Udine",
     "regione": "Friuli-Venezia Giulia",
     "abitanti": 6979,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Lignano_Sabbiadoro-Bandiera.svg/300px-Lignano_Sabbiadoro-Bandiera.svg.png"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LigNAo_Sabbiadoro-Bandiera.svg/300px-LigNAo_Sabbiadoro-Bandiera.svg.png"
   },
   {
     "nome_comune": "Centallo",
@@ -21386,7 +21386,7 @@
   },
   {
     "nome_comune": "Cimitile",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.9424154,
     "lon": 14.5188147,
     "superficie_kmq": 2.6875,
@@ -21762,7 +21762,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bellante%2C_TE.jpg/330px-Bellante%2C_TE.jpg"
   },
   {
-    "nome_comune": "San Giorgio su Legnano",
+    "nome_comune": "San Giorgio su LegNAo",
     "codice_provincia": "MI",
     "lat": 45.5766161,
     "lon": 8.9163437,
@@ -21788,7 +21788,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Collegiata_di_Sant%27Agata_Asciano.jpg/330px-Collegiata_di_Sant%27Agata_Asciano.jpg"
   },
   {
-    "nome_comune": "Cordignano",
+    "nome_comune": "CordigNAo",
     "codice_provincia": "TV",
     "lat": 45.9491657,
     "lon": 12.4155156,
@@ -21798,7 +21798,7 @@
     "provincia": "Treviso",
     "regione": "Veneto",
     "abitanti": 6821,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Cordignano.jpg/330px-Cordignano.jpg"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/CordigNAo.jpg/330px-CordigNAo.jpg"
   },
   {
     "nome_comune": "San Marco Argentano",
@@ -21841,7 +21841,7 @@
   },
   {
     "nome_comune": "Anacapri",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.5514414,
     "lon": 14.2166506,
     "superficie_kmq": 6.1884,
@@ -22750,7 +22750,7 @@
     "immagine": null
   },
   {
-    "nome_comune": "Cagnano Varano",
+    "nome_comune": "CagNAo Varano",
     "codice_provincia": "FG",
     "lat": 41.8293497,
     "lon": 15.7719111,
@@ -22760,7 +22760,7 @@
     "provincia": "Foggia",
     "regione": "Puglia",
     "abitanti": 6513,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Cagnano_varano_centro_storico.JPG/330px-Cagnano_varano_centro_storico.JPG"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/CagNAo_varano_centro_storico.JPG/330px-CagNAo_varano_centro_storico.JPG"
   },
   {
     "nome_comune": "Villa di Serio",
@@ -22816,7 +22816,7 @@
   },
   {
     "nome_comune": "Roccarainola",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.9723176,
     "lon": 14.5620723,
     "superficie_kmq": 28.334,
@@ -22932,7 +22932,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Belgioioso5_castello.jpg/330px-Belgioioso5_castello.jpg"
   },
   {
-    "nome_comune": "Bregnano",
+    "nome_comune": "BregNAo",
     "codice_provincia": "CO",
     "lat": 45.6987461,
     "lon": 9.0610766,
@@ -22942,7 +22942,7 @@
     "provincia": "Como",
     "regione": "Lombardia",
     "abitanti": 6450,
-    "immagine": "https://upload.wikimedia.org/wikipedia/it/b/be/Bregnano-Gonfalone.png"
+    "immagine": "https://upload.wikimedia.org/wikipedia/it/b/be/BregNAo-Gonfalone.png"
   },
   {
     "nome_comune": "Monzuno",
@@ -23401,7 +23401,7 @@
   },
   {
     "nome_comune": "Scisciano",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.917426,
     "lon": 14.482862,
     "superficie_kmq": 5.369,
@@ -23556,7 +23556,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MarinaGioiosaIonicaTorreGalea.JPG/330px-MarinaGioiosaIonicaTorreGalea.JPG"
   },
   {
-    "nome_comune": "Rivignano Teor",
+    "nome_comune": "RivigNAo Teor",
     "codice_provincia": "UD",
     "lat": 45.8743254,
     "lon": 13.0411857,
@@ -23738,7 +23738,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Montegiorgio.jpg/330px-Montegiorgio.jpg"
   },
   {
-    "nome_comune": "Brignano Gera d'Adda",
+    "nome_comune": "BrigNAo Gera d'Adda",
     "codice_provincia": "BG",
     "lat": 45.5432393,
     "lon": 9.6482743,
@@ -23748,7 +23748,7 @@
     "provincia": "Bergamo",
     "regione": "Lombardia",
     "abitanti": 6238,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Brignano1.JPG/330px-Brignano1.JPG"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/BrigNAo1.JPG/330px-BrigNAo1.JPG"
   },
   {
     "nome_comune": "Chiuduno",
@@ -25039,7 +25039,7 @@
   },
   {
     "nome_comune": "Pimonte",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.6736054,
     "lon": 14.5126432,
     "superficie_kmq": 12.1024,
@@ -25181,7 +25181,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Cammarata_BW_2012-10-08_12-45-37.JPG/330px-Cammarata_BW_2012-10-08_12-45-37.JPG"
   },
   {
-    "nome_comune": "Trevignano Romano",
+    "nome_comune": "TrevigNAo Romano",
     "codice_provincia": "RM",
     "lat": 42.1563075,
     "lon": 12.2459558,
@@ -25191,7 +25191,7 @@
     "provincia": "Roma",
     "regione": "Lazio",
     "abitanti": 5791,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Flag_of_Trevignano_Romano.svg/330px-Flag_of_Trevignano_Romano.svg.png"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Flag_of_TrevigNAo_Romano.svg/330px-Flag_of_TrevigNAo_Romano.svg.png"
   },
   {
     "nome_comune": "Quinto Vicentino",
@@ -25519,7 +25519,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Chiesa_di_Santa_Barbara_%28Davoli_2021%29.jpg/330px-Chiesa_di_Santa_Barbara_%28Davoli_2021%29.jpg"
   },
   {
-    "nome_comune": "Passignano sul Trasimeno",
+    "nome_comune": "PassigNAo sul Trasimeno",
     "codice_provincia": "PG",
     "lat": 43.1848457,
     "lon": 12.1366286,
@@ -25529,7 +25529,7 @@
     "provincia": "Perugia",
     "regione": "Umbria",
     "abitanti": 5707,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/PassignanoSulTrasimenoMar302024_01.jpg/330px-PassignanoSulTrasimenoMar302024_01.jpg"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/PassigNAoSulTrasimenoMar302024_01.jpg/330px-PassigNAoSulTrasimenoMar302024_01.jpg"
   },
   {
     "nome_comune": "Domusnovas",
@@ -26117,7 +26117,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Panorama_S_Olcese.jpg/330px-Panorama_S_Olcese.jpg"
   },
   {
-    "nome_comune": "Castelnuovo di Garfagnana",
+    "nome_comune": "Castelnuovo di GarfagNAa",
     "codice_provincia": "LU",
     "lat": 44.109955,
     "lon": 10.41157,
@@ -27079,7 +27079,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/PanicaleMar302024_01.jpg/330px-PanicaleMar302024_01.jpg"
   },
   {
-    "nome_comune": "Guagnano",
+    "nome_comune": "GuagNAo",
     "codice_provincia": "LE",
     "lat": 40.4022601,
     "lon": 17.9509569,
@@ -27469,7 +27469,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Monteiasi01.jpg/330px-Monteiasi01.jpg"
   },
   {
-    "nome_comune": "Mugnano del Cardinale",
+    "nome_comune": "MugNAo del Cardinale",
     "codice_provincia": "AV",
     "lat": 40.9407292,
     "lon": 14.6424562,
@@ -27703,7 +27703,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Castellucchio-Chiesa_S._Giorgio.jpg/330px-Castellucchio-Chiesa_S._Giorgio.jpg"
   },
   {
-    "nome_comune": "Lesignano de' Bagni",
+    "nome_comune": "LesigNAo de' Bagni",
     "codice_provincia": "PR",
     "lat": 44.6440135,
     "lon": 10.3016808,
@@ -27713,7 +27713,7 @@
     "provincia": "Parma",
     "regione": "Emilia-Romagna",
     "abitanti": 5157,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Piazza_IV_Novembre_%28Lesignano_de%27_Bagni%29_-_lato_sud_2019-06-26.jpg/330px-Piazza_IV_Novembre_%28Lesignano_de%27_Bagni%29_-_lato_sud_2019-06-26.jpg"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Piazza_IV_Novembre_%28LesigNAo_de%27_Bagni%29_-_lato_sud_2019-06-26.jpg/330px-Piazza_IV_Novembre_%28LesigNAo_de%27_Bagni%29_-_lato_sud_2019-06-26.jpg"
   },
   {
     "nome_comune": "Caprarola",
@@ -28223,7 +28223,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sant%27Angelo_Romano_g%C3%A9n%C3%A9ral.JPG/330px-Sant%27Angelo_Romano_g%C3%A9n%C3%A9ral.JPG"
   },
   {
-    "nome_comune": "Cura Carpignano",
+    "nome_comune": "Cura CarpigNAo",
     "codice_provincia": "PV",
     "lat": 45.21223,
     "lon": 9.2568459,
@@ -28314,7 +28314,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Levanto-Bandiera_%28Variante%29.svg/330px-Levanto-Bandiera_%28Variante%29.svg.png"
   },
   {
-    "nome_comune": "Castrignano del Capo",
+    "nome_comune": "CastrigNAo del Capo",
     "codice_provincia": "LE",
     "lat": 39.8313438,
     "lon": 18.3526581,
@@ -28324,7 +28324,7 @@
     "provincia": "Lecce",
     "regione": "Puglia",
     "abitanti": 5040,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Piazza_del_Mercato_Castrignano_del_capo.jpg/330px-Piazza_del_Mercato_Castrignano_del_capo.jpg"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Piazza_del_Mercato_CastrigNAo_del_capo.jpg/330px-Piazza_del_Mercato_CastrigNAo_del_capo.jpg"
   },
   {
     "nome_comune": "Castronno",
@@ -28380,7 +28380,7 @@
   },
   {
     "nome_comune": "Camposano",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.9554641,
     "lon": 14.5286535,
     "superficie_kmq": 3.4103,
@@ -28779,7 +28779,7 @@
     "provincia": "Salerno",
     "regione": "Campania",
     "abitanti": 4929,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Capitignano_Giffoni.jpg/330px-Capitignano_Giffoni.jpg"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/CapitigNAo_Giffoni.jpg/330px-CapitigNAo_Giffoni.jpg"
   },
   {
     "nome_comune": "Lanusei",
@@ -28809,7 +28809,7 @@
   },
   {
     "nome_comune": "Massa di Somma",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.846448,
     "lon": 14.3773707,
     "superficie_kmq": 3.1212,
@@ -28912,7 +28912,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/IMGP1858.2.jpg/330px-IMGP1858.2.jpg"
   },
   {
-    "nome_comune": "Fragagnano",
+    "nome_comune": "FragagNAo",
     "codice_provincia": "TA",
     "lat": 40.4324352,
     "lon": 17.4746129,
@@ -29793,7 +29793,7 @@
     "provincia": "Massa-Carrara",
     "regione": "Toscana",
     "abitanti": 4724,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/LiccianaNardiPanorama1.jpg/330px-LiccianaNardiPanorama1.jpg"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/LicciaNAardiPanorama1.jpg/330px-LicciaNAardiPanorama1.jpg"
   },
   {
     "nome_comune": "Ortisei",
@@ -30586,7 +30586,7 @@
     "provincia": "Udine",
     "regione": "Friuli-Venezia Giulia",
     "abitanti": 4579,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Chiesa_di_San_Michele_Arcangelo_%28Ontagnano%2C_Gonars%29_04.jpg/330px-Chiesa_di_San_Michele_Arcangelo_%28Ontagnano%2C_Gonars%29_04.jpg"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Chiesa_di_San_Michele_Arcangelo_%28OntagNAo%2C_Gonars%29_04.jpg/330px-Chiesa_di_San_Michele_Arcangelo_%28OntagNAo%2C_Gonars%29_04.jpg"
   },
   {
     "nome_comune": "Spadafora",
@@ -30784,7 +30784,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Pozzolo_Formigaro-municipio1.jpg/330px-Pozzolo_Formigaro-municipio1.jpg"
   },
   {
-    "nome_comune": "Gragnano Trebbiense",
+    "nome_comune": "GragNAo Trebbiense",
     "codice_provincia": "PC",
     "lat": 45.0121211,
     "lon": 9.5691037,
@@ -31058,7 +31058,7 @@
   },
   {
     "nome_comune": "Lacco Ameno",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.7544312,
     "lon": 13.884416,
     "superficie_kmq": 2.1123,
@@ -31070,7 +31070,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Lacco_Ameno_Ischia.jpg/330px-Lacco_Ameno_Ischia.jpg"
   },
   {
-    "nome_comune": "Catenanuova",
+    "nome_comune": "CateNAuova",
     "codice_provincia": "EN",
     "lat": 37.5677101,
     "lon": 14.6917486,
@@ -31080,7 +31080,7 @@
     "provincia": "Enna",
     "regione": "Sicilia",
     "abitanti": 4477,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bandiera_di_Catenanuova.png/330px-Bandiera_di_Catenanuova.png"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bandiera_di_CateNAuova.png/330px-Bandiera_di_CateNAuova.png"
   },
   {
     "nome_comune": "Bagnatica",
@@ -31356,7 +31356,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Tempio_di_ormelle_chiesa.JPG/330px-Tempio_di_ormelle_chiesa.JPG"
   },
   {
-    "nome_comune": "Alvignano",
+    "nome_comune": "AlvigNAo",
     "codice_provincia": "CE",
     "lat": 41.2453217,
     "lon": 14.3373594,
@@ -31366,7 +31366,7 @@
     "provincia": "Caserta",
     "regione": "Campania",
     "abitanti": 4430,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bandiera_Alvignano.svg/330px-Bandiera_Alvignano.svg.png"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bandiera_AlvigNAo.svg/330px-Bandiera_AlvigNAo.svg.png"
   },
   {
     "nome_comune": "Serrenti",
@@ -31798,7 +31798,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/ArcidossoPanorama.JPG/330px-ArcidossoPanorama.JPG"
   },
   {
-    "nome_comune": "Grisignano di Zocco",
+    "nome_comune": "GrisigNAo di Zocco",
     "codice_provincia": "VI",
     "lat": 45.4753995,
     "lon": 11.6992936,
@@ -31808,7 +31808,7 @@
     "provincia": "Vicenza",
     "regione": "Veneto",
     "abitanti": 4336,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Chiesa_dell%27Annunciazione_della_Beata_Vergine_Maria_%28Grisignano_di_Zocco%29_03.jpg/330px-Chiesa_dell%27Annunciazione_della_Beata_Vergine_Maria_%28Grisignano_di_Zocco%29_03.jpg"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Chiesa_dell%27Annunciazione_della_Beata_Vergine_Maria_%28GrisigNAo_di_Zocco%29_03.jpg/330px-Chiesa_dell%27Annunciazione_della_Beata_Vergine_Maria_%28GrisigNAo_di_Zocco%29_03.jpg"
   },
   {
     "nome_comune": "Ragalna",
@@ -32032,7 +32032,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Pizzoli_saint_Stephen_church.jpg/330px-Pizzoli_saint_Stephen_church.jpg"
   },
   {
-    "nome_comune": "Galzignano Terme",
+    "nome_comune": "GalzigNAo Terme",
     "codice_provincia": "PD",
     "lat": 45.3085983,
     "lon": 11.7282983,
@@ -32042,7 +32042,7 @@
     "provincia": "Padova",
     "regione": "Veneto",
     "abitanti": 4295,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Galzignano_Terme%2C_panorama_dall%27alto.JPG/330px-Galzignano_Terme%2C_panorama_dall%27alto.JPG"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/GalzigNAo_Terme%2C_panorama_dall%27alto.JPG/330px-GalzigNAo_Terme%2C_panorama_dall%27alto.JPG"
   },
   {
     "nome_comune": "Modigliana",
@@ -32227,7 +32227,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/AbrPiglio1.jpg/330px-AbrPiglio1.jpg"
   },
   {
-    "nome_comune": "Vignanello",
+    "nome_comune": "VigNAello",
     "codice_provincia": "VT",
     "lat": 42.3837383,
     "lon": 12.2780119,
@@ -32237,7 +32237,7 @@
     "provincia": "Viterbo",
     "regione": "Lazio",
     "abitanti": 4268,
-    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Vignanello_vista_dall%27alto.jpg/330px-Vignanello_vista_dall%27alto.jpg"
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/VigNAello_vista_dall%27alto.jpg/330px-VigNAello_vista_dall%27alto.jpg"
   },
   {
     "nome_comune": "Peschici",
@@ -33072,7 +33072,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Carpiano.jpg/330px-Carpiano.jpg"
   },
   {
-    "nome_comune": "Appignano",
+    "nome_comune": "AppigNAo",
     "codice_provincia": "MC",
     "lat": 43.3640472,
     "lon": 13.3462537,
@@ -33164,7 +33164,7 @@
   },
   {
     "nome_comune": "Visciano",
-    "codice_provincia": NaN,
+    "codice_provincia": NA,
     "lat": 40.9246587,
     "lon": 14.5824798,
     "superficie_kmq": 10.7013,
