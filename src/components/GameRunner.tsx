@@ -15,6 +15,7 @@ function mapDataPointToQuestion(dataPoint: DataPoint): Question {
     title: dataPoint.nome_comune,
     imageUrl: dataPoint.immagine,
     answer: dataPoint.regione,
+    province: dataPoint.provincia,
   };
 }
 

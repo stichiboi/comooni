@@ -2,6 +2,7 @@ export interface Question {
   title: string;
   imageUrl: string;
   answer: string;
+  province: string;
 }
 
 export interface DataPoint {

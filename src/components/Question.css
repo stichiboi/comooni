@@ -14,6 +14,8 @@
 
 img {
   object-fit: contain;
+  max-height: 100%;
+  z-index: -1;
 }
 
 .option-buttons {
@@ -36,11 +38,24 @@ img {
   /* align-items: stretch; */
   width: 100%;
   display: grid;
-  gap: .8em;
+  gap: 0.8em;
   padding: 2em;
   flex: none;
 }
 
 h2 {
   margin: 0;
+}
+
+.province {
+  /* fade in  */
+  animation: fadeIn 0.5s ease-in-out;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
