@@ -10582,7 +10582,7 @@
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Alfiano_Natta_%28cropped%29.jpg/330px-Alfiano_Natta_%28cropped%29.jpg"
   },
   {
-    "nome_comune": "VillaromagNAo",
+    "nome_comune": "VillaromagNao",
     "codice_provincia": "AL",
     "lat": 44.8510037,
     "lon": 8.8871985,
@@ -30135,7 +30135,7 @@
   },
   {
     "nome_comune": "Capri",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.5508774,
     "lon": 14.2430358,
     "superficie_kmq": 4.2988,
@@ -30148,7 +30148,7 @@
   },
   {
     "nome_comune": "Ischia",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.7428697,
     "lon": 13.9421641,
     "superficie_kmq": 8.4703,
@@ -30161,7 +30161,7 @@
   },
   {
     "nome_comune": "Lettere",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.704352,
     "lon": 14.5446212,
     "superficie_kmq": 12.0072,
@@ -30174,7 +30174,7 @@
   },
   {
     "nome_comune": "Meta",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.6438361,
     "lon": 14.4127602,
     "superficie_kmq": 2.491,
@@ -30187,7 +30187,7 @@
   },
   {
     "nome_comune": "Ottaviano",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.8491987,
     "lon": 14.4774484,
     "superficie_kmq": 19.8664,
@@ -30200,7 +30200,7 @@
   },
   {
     "nome_comune": "Pompei",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.7483869,
     "lon": 14.5001837,
     "superficie_kmq": 12.4675,
@@ -30213,7 +30213,7 @@
   },
   {
     "nome_comune": "Quarto",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.8776317,
     "lon": 14.1436311,
     "superficie_kmq": 14.316,
@@ -30226,7 +30226,7 @@
   },
   {
     "nome_comune": "Ercolano",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.8092084,
     "lon": 14.3456962,
     "superficie_kmq": 19.8214,
@@ -30239,7 +30239,7 @@
   },
   {
     "nome_comune": "Sant'Anastasia",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.8668641,
     "lon": 14.4021529,
     "superficie_kmq": 18.701,
@@ -30252,7 +30252,7 @@
   },
   {
     "nome_comune": "Sant'Antimo",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9337372,
     "lon": 14.2356736,
     "superficie_kmq": 5.9209,
@@ -30265,7 +30265,7 @@
   },
   {
     "nome_comune": "Sant'Antonio Abate",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.7212865,
     "lon": 14.5440496,
     "superficie_kmq": 8.1001,
@@ -30278,7 +30278,7 @@
   },
   {
     "nome_comune": "San Vitaliano",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9229244,
     "lon": 14.4814834,
     "superficie_kmq": 5.0842,
@@ -30291,7 +30291,7 @@
   },
   {
     "nome_comune": "Saviano",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9111242,
     "lon": 14.5097021,
     "superficie_kmq": 13.9151,

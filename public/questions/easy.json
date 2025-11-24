@@ -79,7 +79,7 @@
   },
   {
     "nome_comune": "Napoli",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.8400998,
     "lon": 14.2500966,
     "superficie_kmq": 119.0262,
@@ -469,7 +469,7 @@
   },
   {
     "nome_comune": "Giugliano in Campania",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9282852,
     "lon": 14.2011141,
     "superficie_kmq": 94.6424,
@@ -950,7 +950,7 @@
   },
   {
     "nome_comune": "Torre del Greco",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.7864447,
     "lon": 14.3658584,
     "superficie_kmq": 30.6505,
@@ -976,7 +976,7 @@
   },
   {
     "nome_comune": "Pozzuoli",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.8447187,
     "lon": 14.0931386,
     "superficie_kmq": 43.5325,
@@ -1041,7 +1041,7 @@
   },
   {
     "nome_comune": "Casoria",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9051396,
     "lon": 14.2905447,
     "superficie_kmq": 12.2521,
@@ -1223,7 +1223,7 @@
   },
   {
     "nome_comune": "Castellammare di Stabia",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.6945288,
     "lon": 14.4803261,
     "superficie_kmq": 18.1777,
@@ -1249,7 +1249,7 @@
   },
   {
     "nome_comune": "Afragola",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.922726,
     "lon": 14.3104275,
     "superficie_kmq": 17.755,
@@ -1366,7 +1366,7 @@
   },
   {
     "nome_comune": "Acerra",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9488464,
     "lon": 14.371327,
     "superficie_kmq": 54.7528,
@@ -1405,7 +1405,7 @@
   },
   {
     "nome_comune": "Marano di Napoli",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.8981459,
     "lon": 14.190969,
     "superficie_kmq": 15.3572,
@@ -1730,7 +1730,7 @@
   },
   {
     "nome_comune": "Portici",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.8249752,
     "lon": 14.3552331,
     "superficie_kmq": 4.6414,
@@ -2107,7 +2107,7 @@
   },
   {
     "nome_comune": "Casalnuovo di Napoli",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9147654,
     "lon": 14.3511785,
     "superficie_kmq": 7.589,
@@ -2380,7 +2380,7 @@
   },
   {
     "nome_comune": "San Giorgio a Cremano",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.8296536,
     "lon": 14.334082,
     "superficie_kmq": 4.1661,
@@ -2601,7 +2601,7 @@
   },
   {
     "nome_comune": "Pomigliano d'Arco",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9069813,
     "lon": 14.3929288,
     "superficie_kmq": 12.0015,
@@ -2627,7 +2627,7 @@
   },
   {
     "nome_comune": "Torre Annunziata",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.754798,
     "lon": 14.4484649,
     "superficie_kmq": 7.5974,
@@ -2874,7 +2874,7 @@
   },
   {
     "nome_comune": "Melito di Napoli",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9239621,
     "lon": 14.2327474,
     "superficie_kmq": 3.8165,
@@ -2900,7 +2900,7 @@
   },
   {
     "nome_comune": "Caivano",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9573265,
     "lon": 14.3017409,
     "superficie_kmq": 27.0931,
@@ -3004,7 +3004,7 @@
   },
   {
     "nome_comune": "MugNAo di Napoli",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9094636,
     "lon": 14.2064944,
     "superficie_kmq": 5.0934,
@@ -3160,7 +3160,7 @@
   },
   {
     "nome_comune": "Nola",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9262297,
     "lon": 14.5268057,
     "superficie_kmq": 38.7909,
@@ -3238,7 +3238,7 @@
   },
   {
     "nome_comune": "Somma Vesuviana",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.8713316,
     "lon": 14.4382419,
     "superficie_kmq": 30.9351,
@@ -3446,7 +3446,7 @@
   },
   {
     "nome_comune": "Arzano",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9105451,
     "lon": 14.2692063,
     "superficie_kmq": 4.7977,
@@ -3472,7 +3472,7 @@
   },
   {
     "nome_comune": "Villaricca",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9216421,
     "lon": 14.1938225,
     "superficie_kmq": 6.9362,
@@ -3615,7 +3615,7 @@
   },
   {
     "nome_comune": "San Giuseppe Vesuviano",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.8341961,
     "lon": 14.5061744,
     "superficie_kmq": 14.4719,
@@ -3797,7 +3797,7 @@
   },
   {
     "nome_comune": "Marigliano",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9251279,
     "lon": 14.457043,
     "superficie_kmq": 22.7015,
@@ -3875,7 +3875,7 @@
   },
   {
     "nome_comune": "Frattamaggiore",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.940829,
     "lon": 14.2723257,
     "superficie_kmq": 5.5015,
@@ -4018,7 +4018,7 @@
   },
   {
     "nome_comune": "GragNAo",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.6897428,
     "lon": 14.5210102,
     "superficie_kmq": 14.7377,
@@ -4525,7 +4525,7 @@
   },
   {
     "nome_comune": "Volla",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.8788851,
     "lon": 14.3439901,
     "superficie_kmq": 6.2969,
@@ -4603,7 +4603,7 @@
   },
   {
     "nome_comune": "Boscoreale",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.7752706,
     "lon": 14.4752793,
     "superficie_kmq": 11.4559,
@@ -4772,7 +4772,7 @@
   },
   {
     "nome_comune": "Bacoli",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.7965649,
     "lon": 14.0778473,
     "superficie_kmq": 13.7076,
@@ -4785,7 +4785,7 @@
   },
   {
     "nome_comune": "Qualiano",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9200907,
     "lon": 14.150898,
     "superficie_kmq": 7.5885,
@@ -5253,7 +5253,7 @@
   },
   {
     "nome_comune": "Poggiomarino",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.798631,
     "lon": 14.5408294,
     "superficie_kmq": 12.9619,
@@ -5604,7 +5604,7 @@
   },
   {
     "nome_comune": "Cardito",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9464136,
     "lon": 14.2953088,
     "superficie_kmq": 3.224,
@@ -6111,7 +6111,7 @@
   },
   {
     "nome_comune": "Vico Equense",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.6629487,
     "lon": 14.427733,
     "superficie_kmq": 28.9432,
@@ -6878,7 +6878,7 @@
   },
   {
     "nome_comune": "Casavatore",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.8998198,
     "lon": 14.2738849,
     "superficie_kmq": 1.4951,
@@ -7255,7 +7255,7 @@
   },
   {
     "nome_comune": "Forio",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.7376538,
     "lon": 13.8574085,
     "superficie_kmq": 12.852,
@@ -7372,7 +7372,7 @@
   },
   {
     "nome_comune": "Terzigno",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.809938,
     "lon": 14.4964045,
     "superficie_kmq": 23.6182,
@@ -7476,7 +7476,7 @@
   },
   {
     "nome_comune": "Grumo Nevano",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9323455,
     "lon": 14.2602098,
     "superficie_kmq": 2.9952,
@@ -7658,7 +7658,7 @@
   },
   {
     "nome_comune": "Cercola",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.8600258,
     "lon": 14.358906,
     "superficie_kmq": 3.8113,
@@ -7996,7 +7996,7 @@
   },
   {
     "nome_comune": "Palma Campania",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.8685878,
     "lon": 14.5551642,
     "superficie_kmq": 20.4047,
@@ -8113,7 +8113,7 @@
   },
   {
     "nome_comune": "Brusciano",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9206208,
     "lon": 14.4225514,
     "superficie_kmq": 5.6257,
@@ -8620,7 +8620,7 @@
   },
   {
     "nome_comune": "Frattaminore",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9555882,
     "lon": 14.2708843,
     "superficie_kmq": 2.0247,
@@ -8815,7 +8815,7 @@
   },
   {
     "nome_comune": "Sorrento",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.62711,
     "lon": 14.3751883,
     "superficie_kmq": 10.1249,
@@ -9478,7 +9478,7 @@
   },
   {
     "nome_comune": "Massa Lubrense",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.6115335,
     "lon": 14.3434159,
     "superficie_kmq": 20.0163,
@@ -10518,7 +10518,7 @@
   },
   {
     "nome_comune": "Casandrino",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9356223,
     "lon": 14.248903,
     "superficie_kmq": 3.2935,
@@ -10934,7 +10934,7 @@
   },
   {
     "nome_comune": "Calvizzano",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9067051,
     "lon": 14.1898941,
     "superficie_kmq": 4.0339,
@@ -11077,7 +11077,7 @@
   },
   {
     "nome_comune": "Pollena Trocchia",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.8560034,
     "lon": 14.379524,
     "superficie_kmq": 7.8743,
@@ -11363,7 +11363,7 @@
   },
   {
     "nome_comune": "Cicciano",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9635007,
     "lon": 14.5372175,
     "superficie_kmq": 7.5185,
@@ -11467,7 +11467,7 @@
   },
   {
     "nome_comune": "Piano di Sorrento",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.6329973,
     "lon": 14.4115334,
     "superficie_kmq": 7.2987,
@@ -11493,7 +11493,7 @@
   },
   {
     "nome_comune": "San Gennaro Vesuviano",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.861197,
     "lon": 14.5295044,
     "superficie_kmq": 7.0652,
@@ -11909,7 +11909,7 @@
   },
   {
     "nome_comune": "Santa Maria la Carità",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.7209253,
     "lon": 14.512983,
     "superficie_kmq": 4.1128,
@@ -12026,7 +12026,7 @@
   },
   {
     "nome_comune": "Monte di Procida",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.7946367,
     "lon": 14.0552946,
     "superficie_kmq": 3.7201,
@@ -12273,7 +12273,7 @@
   },
   {
     "nome_comune": "Crispano",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9525529,
     "lon": 14.2852554,
     "superficie_kmq": 2.1665,
@@ -14314,7 +14314,7 @@
   },
   {
     "nome_comune": "Procida",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.7651817,
     "lon": 14.0239517,
     "superficie_kmq": 4.224,
@@ -14405,7 +14405,7 @@
   },
   {
     "nome_comune": "Barano d'Ischia",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.7089192,
     "lon": 13.9177654,
     "superficie_kmq": 10.7513,
@@ -14730,7 +14730,7 @@
   },
   {
     "nome_comune": "Boscotrecase",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.7761725,
     "lon": 14.4627505,
     "superficie_kmq": 7.3668,
@@ -15783,7 +15783,7 @@
   },
   {
     "nome_comune": "Striano",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.8138081,
     "lon": 14.5778294,
     "superficie_kmq": 7.7921,
@@ -17122,7 +17122,7 @@
   },
   {
     "nome_comune": "San Sebastiano al Vesuvio",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.8416248,
     "lon": 14.3703907,
     "superficie_kmq": 2.8156,
@@ -17200,7 +17200,7 @@
   },
   {
     "nome_comune": "Trecase",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.7706962,
     "lon": 14.4365275,
     "superficie_kmq": 6.2983,
@@ -17369,7 +17369,7 @@
   },
   {
     "nome_comune": "Sant'Agnello",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.6305059,
     "lon": 14.3989057,
     "superficie_kmq": 4.0578,
@@ -18552,7 +18552,7 @@
   },
   {
     "nome_comune": "Mariglianella",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9299327,
     "lon": 14.4388346,
     "superficie_kmq": 3.3372,
@@ -18994,7 +18994,7 @@
   },
   {
     "nome_comune": "Castello di Cisterna",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.916048,
     "lon": 14.4101679,
     "superficie_kmq": 3.9518,
@@ -19007,7 +19007,7 @@
   },
   {
     "nome_comune": "Agerola",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.6379506,
     "lon": 14.5448355,
     "superficie_kmq": 19.9249,
@@ -20073,7 +20073,7 @@
   },
   {
     "nome_comune": "Casamicciola Terme",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.7466033,
     "lon": 13.9074731,
     "superficie_kmq": 6.0554,
@@ -21386,7 +21386,7 @@
   },
   {
     "nome_comune": "Cimitile",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9424154,
     "lon": 14.5188147,
     "superficie_kmq": 2.6875,
@@ -21841,7 +21841,7 @@
   },
   {
     "nome_comune": "Anacapri",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.5514414,
     "lon": 14.2166506,
     "superficie_kmq": 6.1884,
@@ -22816,7 +22816,7 @@
   },
   {
     "nome_comune": "Roccarainola",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9723176,
     "lon": 14.5620723,
     "superficie_kmq": 28.334,
@@ -23401,7 +23401,7 @@
   },
   {
     "nome_comune": "Scisciano",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.917426,
     "lon": 14.482862,
     "superficie_kmq": 5.369,
@@ -25039,7 +25039,7 @@
   },
   {
     "nome_comune": "Pimonte",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.6736054,
     "lon": 14.5126432,
     "superficie_kmq": 12.1024,
@@ -28380,7 +28380,7 @@
   },
   {
     "nome_comune": "Camposano",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9554641,
     "lon": 14.5286535,
     "superficie_kmq": 3.4103,
@@ -28809,7 +28809,7 @@
   },
   {
     "nome_comune": "Massa di Somma",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.846448,
     "lon": 14.3773707,
     "superficie_kmq": 3.1212,
@@ -31058,7 +31058,7 @@
   },
   {
     "nome_comune": "Lacco Ameno",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.7544312,
     "lon": 13.884416,
     "superficie_kmq": 2.1123,
@@ -33164,7 +33164,7 @@
   },
   {
     "nome_comune": "Visciano",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9246587,
     "lon": 14.5824798,
     "superficie_kmq": 10.7013,

@@ -2926,7 +2926,7 @@
   },
   {
     "nome_comune": "Casola di Napoli",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.6938621,
     "lon": 14.5288962,
     "superficie_kmq": 2.7246,
@@ -4538,7 +4538,7 @@
   },
   {
     "nome_comune": "San Paolo Bel Sito",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9141956,
     "lon": 14.5493636,
     "superficie_kmq": 2.7655,
@@ -4876,7 +4876,7 @@
   },
   {
     "nome_comune": "Tufino",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9545636,
     "lon": 14.5629059,
     "superficie_kmq": 5.187,
@@ -6826,7 +6826,7 @@
   },
   {
     "nome_comune": "Serrara Fontana",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.7115286,
     "lon": 13.895346,
     "superficie_kmq": 6.3957,
@@ -7619,7 +7619,7 @@
   },
   {
     "nome_comune": "Casamarciano",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9327877,
     "lon": 14.5536282,
     "superficie_kmq": 6.5927,
@@ -12715,7 +12715,7 @@
   },
   {
     "nome_comune": "Carbonara di Nola",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.8723685,
     "lon": 14.5786904,
     "superficie_kmq": 3.7464,
@@ -23154,7 +23154,7 @@
   },
   {
     "nome_comune": "Comiziano",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9524647,
     "lon": 14.5493665,
     "superficie_kmq": 2.358,
@@ -26014,7 +26014,7 @@
   },
   {
     "nome_comune": "Liveri",
-    "codice_provincia": NA,
+    "codice_provincia": "NA",
     "lat": 40.9023632,
     "lon": 14.5672388,
     "superficie_kmq": 3.0391,
