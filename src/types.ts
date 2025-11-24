@@ -14,4 +14,6 @@ export interface DataPoint {
   pageviews: number;
   provincia: string;
   regione: string;
+  abitanti: number | null;
+  immagine: string;
 }

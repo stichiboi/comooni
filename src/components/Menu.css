@@ -9,6 +9,7 @@ h1 {
   align-items: stretch;
   justify-content: center;
   gap: 2em;
+  padding: 0 0.2em;
 }
 
 .difficulty-buttons {

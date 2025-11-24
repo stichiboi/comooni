@@ -16,7 +16,7 @@ hard_file = OUTPUT_DIRECTORY / "hard.json"
 with COMUNI_FILE.open("r") as f:
     comuni = json.load(f)
 
-comuni_sorted = sorted(comuni, key=lambda c: c.get("abitanti", 0))
+comuni_sorted = sorted(comuni, key=lambda c: c.get("abitanti", 0) or 0, reverse=True)
 n = len(comuni_sorted)
 # split the comuni into easy, medium, hard
 easy   = comuni_sorted[:n//3] 

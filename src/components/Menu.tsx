@@ -34,7 +34,16 @@ export function Menu({ onStartGame, previousScore }: MenuProps) {
   return (
     <main className="menu">
       <h1>{"Comooni"}</h1>
-      {previousScore !== null && <p>Your previous score: {previousScore}</p>}
+      <section>
+        Indovina la regione dei comuni italiani, basandoti solo su nome e
+        immagine!
+      </section>
+      {previousScore !== null && (
+        <section>
+          <h3>Punteggio precedente</h3>
+          <p>{previousScore} / 10</p>
+        </section>
+      )}
       <section className="difficulty-buttons">
         {Object.entries(difficulties).map(([key, difficulty]) => (
           <Button key={key} className={key} onClick={() => onStartGame(key)}>

@@ -19,6 +19,7 @@ img {
 .option-buttons {
   display: grid;
   gap: 0.2em;
+  padding: 0 0.2em;
 }
 
 .content {
