@@ -6,23 +6,155 @@ from pathlib import Path
 import re
 import time
 
+import json
 
+
+import requests
+
+def get_disambig_options(title):
+    """
+    Restituisce tutti i titoli collegati dalla pagina di disambiguazione di Wikipedia italiana.
+    """
+    URL = "https://it.wikipedia.org/w/api.php"
+    options = []
+    plcontinue = None
+
+    while True:
+        PARAMS = {
+            "action": "query",
+            "format": "json",
+            "titles": title,
+            "prop": "links",
+            "pllimit": "max"
+        }
+        if plcontinue:
+            PARAMS["plcontinue"] = plcontinue
+
+        r = requests.get(URL, params=PARAMS, timeout=10, headers = {
+        "User-Agent": "ComuniPageviewsBot/1.0 (contatto: giulia.maineri@example.com)"
+        })
+        r.raise_for_status()
+        data = r.json()
+
+        pages = data.get("query", {}).get("pages", {})
+        page = next(iter(pages.values()))
+        if "links" in page:
+            options.extend([link["title"] for link in page["links"]])
+
+        if "continue" in data and "plcontinue" in data["continue"]:
+            plcontinue = data["continue"]["plcontinue"]
+        else:
+            break
+
+    return options
+
+
+from bs4 import BeautifulSoup
 
 def get_wiki_data(comune):
     #print(f"DEBUG: Processo il comune: {comune}")
+    params_content = {
+        "action": "query", "format": "json", "titles": comune, "redirects": 1,
+        "prop": "revisions|pageimages", "rvprop": "content", "pithumbsize": 300 
+    }
+    
+    url_base = "https://it.wikipedia.org/w/api.php"
+    
+    params_parse = {
+        "action": "parse", "format": "json", "page": comune,
+        "prop": "text", "section": 0, "redirects": 1
+    }
+    
+    headers = {
+        "User-Agent": "ComuniPageviewsBot/1.0 (contatto: giulia.maineri@example.com)"
+    }
+    
+    popolazione = None
+    immagine = None
+
+    try:
+        r_parse = requests.get(url_base, params=params_parse, timeout=10, headers=headers)
+        r_parse.raise_for_status()
+        data_parse = r_parse.json()
+        parsed_html = data_parse.get("parse", {}).get("text", {}).get("*", "")
+
+        # --- Controllo disambiguazione ---
+        if "Disambiguazione" in parsed_html or "questa è una pagina di disambiguazione" in parsed_html.lower():
+            print("DEBUG: Pagina di disambiguazione trovata")
+            options = get_disambig_options(comune)
+            comune_option = None
+            for opt in options:
+                print(opt)
+                print(comune)
+                tokens = opt.split()
+                if tokens[0] == comune and "disambigua" not in opt or (tokens[0].isdigit() and len(tokens) > 1 and tokens[1] == comune and "(disambigua)" not in opt):
+                    if "(Italia)" in opt:
+                        opt += " (Italia)"  # aggiungiamo solo se c'è
+                    comune_option = opt
+                    print("DEBUG: Opzione comune selezionata:", comune_option)
+                    break
+            if comune_option:
+                return get_wiki_data(comune_option)
+            else:
+                print(f"DEBUG: Nessuna voce comune trovata per {comune}")
+                return None, None
+
+        # --- Parsing HTML con BeautifulSoup per estrazione dati ---
+        soup = BeautifulSoup(parsed_html, "html.parser")
+
+        # Immagine (prima thumbnail nella infobox)
+        try:
+            r_content = requests.get(url_base, params=params_content, timeout=10, headers=headers)
+            if r_content.status_code == 200:
+                data_content = r_content.json()
+                pages = data_content.get("query", {}).get("pages", {})
+                page = next(iter(pages.values()), None)
+
+                if page and "thumbnail" in page:
+                    thumb = page["thumbnail"]
+                    width = thumb.get("width")
+                    height = thumb.get("height")
+                    
+                    if width and height and width > height:
+                        immagine = thumb["source"]
+                        #print(f"DEBUG: Immagine orizzontale → {immagine}")
+        except requests.exceptions.RequestException as e:
+            print(f"DEBUG: Eccezione nella richiesta CONTENT API per immagine: {e}")
+
+            # Popolazione: cerca <th> con "Abitanti" o "Popolazione"
+            for row in infobox.find_all("tr"):
+                header = row.find("th")
+                if header:
+                    header_text = header.get_text(strip=True).lower()
+                    if "abitanti" in header_text or "popolazione" in header_text:
+                        cell = row.find("td")
+                        if cell:
+                            text = cell.get_text(" ", strip=True)
+                            # prendo solo i numeri
+                            m = re.search(r"[\d\s]+", text)
+                            if m:
+                                popolazione = int(re.sub(r"\D", "", m.group(0)))
+                        break
+
+    except requests.exceptions.RequestException as e:
+        print(f"DEBUG: Eccezione nella richiesta PARSE API: {e}")
+
+    return popolazione, immagine
+
+    print(f"DEBUG: Processo il comune: {comune}")
     
     url_base = "https://it.wikipedia.org/w/api.php"
     
     # 1. API per l'immagine (prop=pageimages) e contenuto grezzo (rvprop=content)
     params_content = {
         "action": "query", "format": "json", "titles": comune, "redirects": 1,
-        "prop": "revisions|pageimages", "rvprop": "content", "pithumbsize": 300 
+        "prop": "revisions|pageimages", "rvprop": "content", "pithumbsize": 300, "pageprops": { "disambiguation": "" }
     }
 
     # 2. API per il parsing (per risolvere i template come {{Popolazione|ITA}})
     params_parse = {
         "action": "parse", "format": "json", "page": comune,
-        "prop": "text", "section": 0  
+        "prop": "text", "section": 0, "pageprops": { "disambiguation": "" }
     }
     
     headers = {
@@ -42,6 +174,48 @@ def get_wiki_data(comune):
         if r_parse.status_code == 200:
             data_parse = r_parse.json()
             parsed_text_html = data_parse.get("parse", {}).get("text", {}).get("*", "")
+            # --- Se è una pagina di disambiguazione ---
+            pageprops = data_parse.get("parse", {}).get("pageprops", {}).get("*", "")
+            print(parsed_text_html)
+            comune_option = None 
+            if "Disambiguazione" in parsed_text_html or "questa è una pagina di disambiguazione" in parsed_text_html.lower():
+                is_disambig = True
+                print("DEBUG: Disambiguo")
+                options = get_disambig_options(comune)
+                print("Opzioni trovate nella disambiguazione:")
+                for opt in options:
+                    print(" -", opt)
+                    print(comune)
+                    if "(Italia)" in opt.strip() and comune in opt.strip():
+                        comune_option = opt
+                        print("Opzione comune selezionata:", comune_option)
+                        break  
+    
+                if comune_option:
+                    # richiamo la funzione principale con la pagina corretta
+                    popolazione, immagine = get_wiki_data(comune_option)
+                else:
+                    print(f"DEBUG: Nessuna voce comune trovata per {comune}, skip ")
+                    return None, None
+              
+            elif "Reindirizza" in parsed_text_html:
+            # cerca il nuovo titolo dal link "/wiki/..."
+                match_redirect = re.search(
+                    r'href="/wiki/([^"#>]+)"',
+                    parsed_text_html,
+                    flags=re.IGNORECASE
+                )
+
+                if match_redirect:
+                    nuovo_titolo = match_redirect.group(1).replace("_", " ")
+                    print(f"DEBUG: Redirect rilevato → {comune} → {nuovo_titolo}")
+
+                    # evita loop infiniti se per errore un redirect punta a sé stesso
+                    if nuovo_titolo != comune:
+                        return get_wiki_data(nuovo_titolo)
+
+
+        
             # ---  PULIZIA ---
             text_cleaned = re.sub(r'<(style|script).*?>.*?</\1>', ' ', parsed_text_html, flags=re.IGNORECASE | re.DOTALL)
             
@@ -55,7 +229,7 @@ def get_wiki_data(comune):
             
             text_cleaned = re.sub(r'\s+', ' ', text_cleaned).strip()
             
-            #print(f"DEBUG: Inizio testo pulito (300 caratteri): {text_cleaned[:800].replace('\n', ' ')}...")
+            
             
             match_abitanti_label = re.search(r"([Aa]bitanti)", text_cleaned)
 
@@ -82,6 +256,8 @@ def get_wiki_data(comune):
                     print("DEBUG: Nessun numero trovato nella finestra di ricerca.")
             else:
                 print("DEBUG: Etichetta 'Abitanti' non trovata nel testo pulito.")
+                print("DEBUG: Inizio testo pulito (300 caratteri): ", text_cleaned[:2000].replace("\n", " "))
+
 
         #else:
             #print(f"DEBUG: Errore API PARSE (Status {r_parse.status_code}).")
@@ -97,8 +273,15 @@ def get_wiki_data(comune):
             pages = data_content.get("query", {}).get("pages", {})
             page = next(iter(pages.values()), None)
 
+
             if page and "thumbnail" in page:
-                immagine = page["thumbnail"]["source"]
+                thumb = page["thumbnail"]
+                width = thumb.get("width")
+                height = thumb.get("height")
+                
+                if width and height and width > height:
+                    immagine = thumb["source"]
+                    #print(f"DEBUG: Immagine orizzontale → {immagine}")
 
     except requests.exceptions.RequestException as e:
         print(f"DEBUG: Eccezione nella richiesta CONTENT API per immagine: {e}")
@@ -111,19 +294,23 @@ def get_wiki_data(comune):
 
 COMUNI_FILE = Path("../resources/comuni.xlsx")
 PROVINCE_FILE = Path("../resources/province-italiane.xlsx")
-OUTPUT_FILE = Path("../resources/comuni.json")
+OUTPUT_FILE = Path("../resources/comuni_testDISAMB.json")
 
 df_comuni = pd.read_excel(COMUNI_FILE)
 df_comuni.columns = df_comuni.columns.str.strip()
-
-
 df_provincie = pd.read_excel(PROVINCE_FILE)
 
 comuni = []
+processed_comuni = set()
+if OUTPUT_FILE.exists():
+    OUTPUT_FILE.unlink() 
+
+comuni = []
 for _, row in tqdm.tqdm(df_comuni.iterrows()):
-    nome_comune = row["denominazione_ita"]
+    
     nome_comune = str(row["denominazione_ita"]).strip()
-    nome_encoded = urllib.parse.quote(nome_comune)  # encode per URL
+    nome_encoded = urllib.parse.quote("nome encoded", nome_comune)
+    #print(nome_encoded)  # encode per URL
     popolazione, immagine = get_wiki_data(nome_comune)
     
     # API Wikipedia Pageviews (periodo: 2024-08-01 → 2025-07-31)
@@ -146,8 +333,8 @@ for _, row in tqdm.tqdm(df_comuni.iterrows()):
     prov_row = df_provincie.loc[df_provincie["Sigla"]==row["sigla_provincia"]]
     if prov_row.empty: 
         prov_row={
-            "provincia": "Napoli", 
-            "regione": "Campania"
+            "Provincia": "Napoli", 
+            "Regione": "Campania"
         }
     else:
         prov_row = prov_row.iloc[0]
@@ -168,8 +355,9 @@ for _, row in tqdm.tqdm(df_comuni.iterrows()):
     }
     
     comuni.append(comune_dict)
+    processed_comuni.add(nome_comune)
+    with open(OUTPUT_FILE, "w") as f: 
+        json.dump(comuni, f, indent=2, ensure_ascii=False)
+
   
 
-import json
-with open(OUTPUT_FILE, "w") as f: 
-    json.dump(comuni, f, indent=2, ensure_ascii=False)

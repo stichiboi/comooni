@@ -4,7 +4,7 @@ import json
 from pathlib import Path
 
 SCRIPT_DIR = Path(__file__).parent
-COMUNI_FILE = SCRIPT_DIR / ".." / "resources" / "comuni.json"
+COMUNI_FILE = SCRIPT_DIR / ".." / "resources" / "comuni_complete.json"
 assert COMUNI_FILE.exists(), "Comuni file not found"
 OUTPUT_DIRECTORY = SCRIPT_DIR / ".." / "public" / "questions"
 OUTPUT_DIRECTORY.mkdir(parents=True, exist_ok=True)
