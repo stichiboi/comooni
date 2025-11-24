@@ -82,6 +82,8 @@ def get_wiki_data(comune):
                     print("DEBUG: Nessun numero trovato nella finestra di ricerca.")
             else:
                 print("DEBUG: Etichetta 'Abitanti' non trovata nel testo pulito.")
+                print("text cleaned", text_cleaned)
+                
 
         #else:
             #print(f"DEBUG: Errore API PARSE (Status {r_parse.status_code}).")
@@ -119,8 +121,9 @@ df_comuni.columns = df_comuni.columns.str.strip()
 
 df_provincie = pd.read_excel(PROVINCE_FILE)
 
+df_comuni_test = df_comuni[:100]
 comuni = []
-for _, row in tqdm.tqdm(df_comuni.iterrows()):
+for _, row in tqdm.tqdm(df_comuni_test.iterrows()):
     nome_comune = row["denominazione_ita"]
     nome_comune = str(row["denominazione_ita"]).strip()
     nome_encoded = urllib.parse.quote(nome_comune)  # encode per URL

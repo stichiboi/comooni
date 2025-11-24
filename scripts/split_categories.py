@@ -16,10 +16,13 @@ hard_file = OUTPUT_DIRECTORY / "hard.json"
 with COMUNI_FILE.open("r") as f:
     comuni = json.load(f)
 
+comuni_sorted = sorted(comuni, key=lambda c: c.get("abitanti", 0))
+n = len(comuni_sorted)
 # split the comuni into easy, medium, hard
-easy = [c for c in comuni if (c["pageviews"] or 0) < 10000]
-medium = [c for c in comuni if (c["pageviews"] or 0) >= 10000 and (c["pageviews"] or 0) < 100000]
-hard = [c for c in comuni if (c["pageviews"] or 0) >= 100000]
+easy   = comuni_sorted[:n//3] 
+medium =  comuni_sorted[n//3:n*2//3] 
+hard =  comuni_sorted[n*2//3:] 
+print(comuni_sorted[n//3])
 
 def dump_json(data: list[dict], file: Path):
     with file.open("w") as f:
