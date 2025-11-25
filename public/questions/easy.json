@@ -22,7 +22,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 45533,
     "provincia": "Bolzano",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 1813400,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tirol_in_Austria_and_Italy.svg/330px-Tirol_in_Austria_and_Italy.svg.png",
     "punteggio": 13
@@ -134,7 +134,7 @@
     "flag_capoluogo": "SI",
     "pageviews": 327594,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 391439,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Bologna.svg/330px-Flag_of_Bologna.svg.png",
     "punteggio": 22
@@ -162,7 +162,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 14144,
     "provincia": "Bolzano",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 334870,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%97%D0%BD%D0%B0%D0%BC%D0%B5_%D0%BD%D0%B0_%D0%92%D0%B0%D1%80%D0%BD%D0%B0%2C_%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F.svg/330px-%D0%97%D0%BD%D0%B0%D0%BC%D0%B5_%D0%BD%D0%B0_%D0%92%D0%B0%D1%80%D0%BD%D0%B0%2C_%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F.svg.png",
     "punteggio": 23
@@ -288,7 +288,7 @@
     "flag_capoluogo": "SI",
     "pageviews": 173724,
     "provincia": "Parma",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 199205,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Flag_of_Parma.svg/330px-Flag_of_Parma.svg.png",
     "punteggio": 26
@@ -302,7 +302,7 @@
     "flag_capoluogo": "SI",
     "pageviews": 238102,
     "provincia": "Trieste",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 198804,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Free_Territory_Trieste_Flag.svg/330px-Free_Territory_Trieste_Flag.svg.png",
     "punteggio": 26
@@ -330,7 +330,7 @@
     "flag_capoluogo": "SI",
     "pageviews": 155960,
     "provincia": "Modena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 184806,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Modena.svg/330px-Flag_of_Modena.svg.png",
     "punteggio": 27
@@ -358,7 +358,7 @@
     "flag_capoluogo": "SI",
     "pageviews": 3819,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 172976,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_Reggio_Emilia.svg/330px-Flag_of_Reggio_Emilia.svg.png",
     "punteggio": 27
@@ -400,7 +400,7 @@
     "flag_capoluogo": "SI",
     "pageviews": 169636,
     "provincia": "Ravenna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 156492,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Flag_of_Ravenna.svg/330px-Flag_of_Ravenna.svg.png",
     "punteggio": 28
@@ -428,7 +428,7 @@
     "flag_capoluogo": "SI",
     "pageviews": 139949,
     "provincia": "Rimini",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 150969,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Flag_of_Rimini.svg/330px-Flag_of_Rimini.svg.png",
     "punteggio": 28
@@ -470,7 +470,7 @@
     "flag_capoluogo": "SI",
     "pageviews": 136449,
     "provincia": "Ferrara",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 129301,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Ferrara.svg/330px-Flag_of_Ferrara.svg.png",
     "punteggio": 29
@@ -568,7 +568,7 @@
     "flag_capoluogo": "SI",
     "pageviews": 141960,
     "provincia": "Trento",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 119129,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Trento.svg/330px-Flag_of_Trento.svg.png",
     "punteggio": 29
@@ -596,7 +596,7 @@
     "flag_capoluogo": "SI",
     "pageviews": 102158,
     "provincia": "Forlì-Cesena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 117841,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Flag_of_Forl%C3%AC.svg/330px-Flag_of_Forl%C3%AC.svg.png",
     "punteggio": 29
@@ -666,7 +666,7 @@
     "flag_capoluogo": "SI",
     "pageviews": 158725,
     "provincia": "Bolzano",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 106339,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Bozen.svg/330px-Flag_of_Bozen.svg.png",
     "punteggio": 30
@@ -680,7 +680,7 @@
     "flag_capoluogo": "SI",
     "pageviews": 128595,
     "provincia": "Piacenza",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 103710,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Piacenza.svg/330px-Flag_of_Piacenza.svg.png",
     "punteggio": 30
@@ -722,7 +722,7 @@
     "flag_capoluogo": "SI",
     "pageviews": 130893,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 98377,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Udine_flag.svg/330px-Udine_flag.svg.png",
     "punteggio": 30
@@ -764,7 +764,7 @@
     "flag_capoluogo": "SI",
     "pageviews": 99808,
     "provincia": "Forlì-Cesena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 95726,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_of_Cesena.svg/330px-Flag_of_Cesena.svg.png",
     "punteggio": 31
@@ -1100,7 +1100,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 79291,
     "provincia": "Modena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 73796,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Flag_of_Carpi.svg/330px-Flag_of_Carpi.svg.png",
     "punteggio": 32
@@ -1226,7 +1226,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 80126,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 69507,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Imola.svg/330px-Flag_of_Imola.svg.png",
     "punteggio": 33
@@ -1450,7 +1450,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 97476,
     "provincia": "Ravenna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 58746,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Faenza.svg/330px-Flag_of_Faenza.svg.png",
     "punteggio": 34
@@ -1814,7 +1814,7 @@
     "flag_capoluogo": "SI",
     "pageviews": 127299,
     "provincia": "Pordenone",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 52653,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Pordenone.svg/330px-Flag_of_Pordenone.svg.png",
     "punteggio": 34
@@ -2556,7 +2556,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 157478,
     "provincia": "Bolzano",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 41645,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flagge_Meran.svg/330px-Flagge_Meran.svg.png",
     "punteggio": 36
@@ -2598,7 +2598,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 80494,
     "provincia": "Modena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 41171,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sassuolo.svg/330px-Flag_of_Sassuolo.svg.png",
     "punteggio": 36
@@ -2696,7 +2696,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 92994,
     "provincia": "Trento",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 40522,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Rovereto_%28without_CoA%29.svg/330px-Flag_of_Rovereto_%28without_CoA%29.svg.png",
     "punteggio": 36
@@ -3228,7 +3228,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 41885,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 35345,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Reno_a_Casalecchio_di_Reno_%28BO%29.jpg/330px-Reno_a_Casalecchio_di_Reno_%28BO%29.jpg",
     "punteggio": 37
@@ -3326,7 +3326,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 32101,
     "provincia": "Modena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 34459,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Formigine.svg/330px-Flag_of_Formigine.svg.png",
     "punteggio": 37
@@ -3354,7 +3354,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 51181,
     "provincia": "Rimini",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 34362,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_Riccione.svg/330px-Flag_of_Riccione.svg.png",
     "punteggio": 37
@@ -3438,7 +3438,7 @@
     "flag_capoluogo": "SI",
     "pageviews": 172446,
     "provincia": "Gorizia",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 33704,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Flag_of_Gorizia.svg/330px-Flag_of_Gorizia.svg.png",
     "punteggio": 37
@@ -3452,7 +3452,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 22811,
     "provincia": "Modena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 33608,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Castelfranco_Emilia%2C_orologio_00.JPG/330px-Castelfranco_Emilia%2C_orologio_00.JPG",
     "punteggio": 37
@@ -3522,7 +3522,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 44837,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 32908,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Municipio_San_Lazzaro_di_Savena.jpg/330px-Municipio_San_Lazzaro_di_Savena.jpg",
     "punteggio": 37
@@ -3620,7 +3620,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 26198,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 32271,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Flag_of_Valsamoggia.svg/330px-Flag_of_Valsamoggia.svg.png",
     "punteggio": 37
@@ -3858,7 +3858,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 96767,
     "provincia": "Gorizia",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 30713,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Monfalcone-Bandiera.svg/330px-Monfalcone-Bandiera.svg.png",
     "punteggio": 38
@@ -4152,7 +4152,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 57364,
     "provincia": "Ravenna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 29064,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/CerviaPalazzoComunale.JPG/330px-CerviaPalazzoComunale.JPG",
     "punteggio": 38
@@ -4264,7 +4264,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 38829,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 28098,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Flag_of_San_Giovanni_in_Persiceto.svg/330px-Flag_of_San_Giovanni_in_Persiceto.svg.png",
     "punteggio": 38
@@ -4348,7 +4348,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 43043,
     "provincia": "Parma",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 27484,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Fidenza.svg/330px-Flag_of_Fidenza.svg.png",
     "punteggio": 38
@@ -4684,7 +4684,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 32857,
     "provincia": "Modena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 26279,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Vignola_Castello.jpg/330px-Vignola_Castello.jpg",
     "punteggio": 39
@@ -4726,7 +4726,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 50189,
     "provincia": "Forlì-Cesena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 26037,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Cesenatico.svg/330px-Flag_of_Cesenatico.svg.png",
     "punteggio": 39
@@ -4754,7 +4754,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 47348,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 26006,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Flag_of_Scandiano.svg/330px-Flag_of_Scandiano.svg.png",
     "punteggio": 39
@@ -5132,7 +5132,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 36641,
     "provincia": "Modena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 24865,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Flag_of_Mirandola.svg/330px-Flag_of_Mirandola.svg.png",
     "punteggio": 39
@@ -5482,7 +5482,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 86819,
     "provincia": "Bolzano",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 23208,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Brixen-Flagge.svg/330px-Brixen-Flagge.svg.png",
     "punteggio": 39
@@ -5720,7 +5720,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 57283,
     "provincia": "Rimini",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 22310,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Santarcangelo_di_Romagna_2.jpg/330px-Santarcangelo_di_Romagna_2.jpg",
     "punteggio": 40
@@ -5804,7 +5804,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 57725,
     "provincia": "Ferrara",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 21935,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Comacchio.svg/330px-Flag_of_Comacchio.svg.png",
     "punteggio": 40
@@ -5972,7 +5972,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 30463,
     "provincia": "Trento",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 21626,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pergine_Valsugana-Buss-panorama_of_Buss_and_Pergine_Valsugana.jpg/330px-Pergine_Valsugana-Buss-panorama_of_Buss_and_Pergine_Valsugana.jpg",
     "punteggio": 40
@@ -6140,7 +6140,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 51201,
     "provincia": "Ferrara",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 21132,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Flag_of_Argenta.svg/330px-Flag_of_Argenta.svg.png",
     "punteggio": 40
@@ -6322,7 +6322,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 39408,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 20663,
     "immagine": null,
     "punteggio": 40
@@ -6392,7 +6392,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 45036,
     "provincia": "Parma",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 20589,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Salsomaggiore_Terme.svg/330px-Flag_of_Salsomaggiore_Terme.svg.png",
     "punteggio": 40
@@ -6714,7 +6714,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 45259,
     "provincia": "Pordenone",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 19902,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Sacile%2C_vista_su_Livenza_e_campanile.jpg/330px-Sacile%2C_vista_su_Livenza_e_campanile.jpg",
     "punteggio": 40
@@ -6826,7 +6826,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 18667,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 19531,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Zola_Predosa_vista_dall%27_alto.jpg/330px-Zola_Predosa_vista_dall%27_alto.jpg",
     "punteggio": 40
@@ -6840,7 +6840,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 35776,
     "provincia": "Rimini",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 19512,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bellaria_chiesa.JPG/330px-Bellaria_chiesa.JPG",
     "punteggio": 40
@@ -7064,7 +7064,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 13436,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 19021,
     "immagine": null,
     "punteggio": 41
@@ -7232,7 +7232,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 16277,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 18532,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Palazzo_comunale_%28Castel_Maggiore%29.JPG/330px-Palazzo_comunale_%28Castel_Maggiore%29.JPG",
     "punteggio": 41
@@ -7274,7 +7274,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 26362,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 18485,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Piazza_Filopanti%2C_palazzo_municipale.jpg/330px-Piazza_Filopanti%2C_palazzo_municipale.jpg",
     "punteggio": 41
@@ -7358,7 +7358,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 57617,
     "provincia": "Modena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 18405,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Frignano_8457_2x_filtered.JPG/330px-Frignano_8457_2x_filtered.JPG",
     "punteggio": 41
@@ -7400,7 +7400,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 18705,
     "provincia": "Forlì-Cesena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 18174,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_Savignano_sul_Rubicone.svg/330px-Flag_of_Savignano_sul_Rubicone.svg.png",
     "punteggio": 41
@@ -7652,7 +7652,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 44983,
     "provincia": "Trento",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 17779,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Riva_del_Garda-Bandiera.svg/330px-Riva_del_Garda-Bandiera.svg.png",
     "punteggio": 41
@@ -7722,7 +7722,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 15011,
     "provincia": "Pordenone",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 17680,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Piazza_della_Vittoria_%28Cordenons%29_-_Duomo_e_Municipio.jpg/330px-Piazza_della_Vittoria_%28Cordenons%29_-_Duomo_e_Municipio.jpg",
     "punteggio": 41
@@ -7890,7 +7890,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 39753,
     "provincia": "Modena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 17368,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Municipality_of_Maranello_in_2018.04.jpg/330px-Municipality_of_Maranello_in_2018.04.jpg",
     "punteggio": 41
@@ -8002,7 +8002,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 90366,
     "provincia": "Bolzano",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 17178,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/I-Bruneck_008.jpg/330px-I-Bruneck_008.jpg",
     "punteggio": 41
@@ -8296,7 +8296,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 14034,
     "provincia": "Modena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 16653,
     "immagine": null,
     "punteggio": 41
@@ -8352,7 +8352,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 12687,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 16614,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Comune_di_Castenaso_Alessandro_Sgarzi_Ph_%283%29.jpg/330px-Comune_di_Castenaso_Alessandro_Sgarzi_Ph_%283%29.jpg",
     "punteggio": 41
@@ -8422,7 +8422,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 44122,
     "provincia": "Ravenna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 16509,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Piazza_Nuova_.jpg/330px-Piazza_Nuova_.jpg",
     "punteggio": 41
@@ -8646,7 +8646,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 15123,
     "provincia": "Modena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 16194,
     "immagine": null,
     "punteggio": 42
@@ -8856,7 +8856,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 18434,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 15893,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ImmagineIphone_1945.jpg/330px-ImmagineIphone_1945.jpg",
     "punteggio": 42
@@ -8926,7 +8926,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 12798,
     "provincia": "Pordenone",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 15813,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Piazza_Libert%C3%A0%2C_Azzano_Decimo.jpg/330px-Piazza_Libert%C3%A0%2C_Azzano_Decimo.jpg",
     "punteggio": 42
@@ -8954,7 +8954,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 51872,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 15787,
     "immagine": null,
     "punteggio": 42
@@ -9094,7 +9094,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 16733,
     "provincia": "Ferrara",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 15636,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Copparo.svg/330px-Flag_of_Copparo.svg.png",
     "punteggio": 42
@@ -9122,7 +9122,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 9151,
     "provincia": "Modena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 15503,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Soliera.svg/330px-Flag_of_Soliera.svg.png",
     "punteggio": 42
@@ -9150,7 +9150,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 14982,
     "provincia": "Modena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 15461,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finale_Emilia.svg/330px-Flag_of_Finale_Emilia.svg.png",
     "punteggio": 42
@@ -9304,7 +9304,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 43683,
     "provincia": "Pordenone",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 15252,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/SanVitoT-piazzadelpopolo.jpg/330px-SanVitoT-piazzadelpopolo.jpg",
     "punteggio": 42
@@ -9346,7 +9346,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 13735,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 15185,
     "immagine": null,
     "punteggio": 42
@@ -9388,7 +9388,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 12244,
     "provincia": "Modena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 15113,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Castelnuovo_Rangone.jpg/330px-Castelnuovo_Rangone.jpg",
     "punteggio": 42
@@ -9542,7 +9542,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 24900,
     "provincia": "Piacenza",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 15001,
     "immagine": null,
     "punteggio": 42
@@ -9570,7 +9570,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 12260,
     "provincia": "Pordenone",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 14973,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/PorciaTorreOrologio_1.JPG/330px-PorciaTorreOrologio_1.JPG",
     "punteggio": 42
@@ -9612,7 +9612,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 17463,
     "provincia": "Parma",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 14891,
     "immagine": null,
     "punteggio": 42
@@ -9654,7 +9654,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 28098,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 14815,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/SassoMarconiPanorama.JPG/330px-SassoMarconiPanorama.JPG",
     "punteggio": 42
@@ -9738,7 +9738,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 82881,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 14641,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Guastalla.svg/330px-Flag_of_Guastalla.svg.png",
     "punteggio": 42
@@ -9794,7 +9794,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 15975,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 14606,
     "immagine": null,
     "punteggio": 42
@@ -9850,7 +9850,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 16633,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 14511,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Rubiera%2C_torre_dell%27orologio_01.JPG/330px-Rubiera%2C_torre_dell%27orologio_01.JPG",
     "punteggio": 42
@@ -9948,7 +9948,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 12524,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 14408,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ozzano-Palazzo_municipale.jpg/330px-Ozzano-Palazzo_municipale.jpg",
     "punteggio": 42
@@ -10004,7 +10004,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 32893,
     "provincia": "Piacenza",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 14360,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Castel_San_Giovanni_-_edificio_piazza_XX_Settembre_7.jpg/330px-Castel_San_Giovanni_-_edificio_piazza_XX_Settembre_7.jpg",
     "punteggio": 42
@@ -10102,7 +10102,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 18476,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 14211,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Flag_of_Crevalcore.svg/330px-Flag_of_Crevalcore.svg.png",
     "punteggio": 42
@@ -10130,7 +10130,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 28264,
     "provincia": "Rimini",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 14166,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Misano_World_Circuit_Marco_Simoncelli.jpg/330px-Misano_World_Circuit_Marco_Simoncelli.jpg",
     "punteggio": 42
@@ -10144,7 +10144,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 18050,
     "provincia": "Ferrara",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 14162,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Bondeno.svg/330px-Flag_of_Bondeno.svg.png",
     "punteggio": 42
@@ -10550,7 +10550,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 19765,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 13762,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Cervignano.jpg/330px-Cervignano.jpg",
     "punteggio": 43
@@ -10578,7 +10578,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 10450,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 13753,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Municipio_calderara.jpg/330px-Municipio_calderara.jpg",
     "punteggio": 43
@@ -10858,7 +10858,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 15059,
     "provincia": "Parma",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 13353,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rocca_dei_Sanvitale_%28Noceto%29_-_mastio_e_ingresso_2019-06-28.jpg/330px-Rocca_dei_Sanvitale_%28Noceto%29_-_mastio_e_ingresso_2019-06-28.jpg",
     "punteggio": 43
@@ -10872,7 +10872,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 23290,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 13350,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Novellara.svg/330px-Flag_of_Novellara.svg.png",
     "punteggio": 43
@@ -11040,7 +11040,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 9280,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 13216,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Quattro_Castella.jpg/330px-Quattro_Castella.jpg",
     "punteggio": 43
@@ -11054,7 +11054,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 40221,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 13203,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Latisana_map.jpg/330px-Latisana_map.jpg",
     "punteggio": 43
@@ -11110,7 +11110,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 38861,
     "provincia": "Forlì-Cesena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 13155,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Forlimpopoli_Flag.jpg/330px-Forlimpopoli_Flag.jpg",
     "punteggio": 43
@@ -11124,7 +11124,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 19486,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 13136,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Piazza_dei_Martiri.jpg/330px-Piazza_dei_Martiri.jpg",
     "punteggio": 43
@@ -11180,7 +11180,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 8299,
     "provincia": "Parma",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 13121,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Parmetta_ponte.jpg/330px-Parmetta_ponte.jpg",
     "punteggio": 43
@@ -11264,7 +11264,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 9821,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 13099,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Palazzo_Municipale_%282%29_%28Granarolo_dell%27Emilia%29.jpg/330px-Palazzo_Municipale_%282%29_%28Granarolo_dell%27Emilia%29.jpg",
     "punteggio": 43
@@ -11502,7 +11502,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 12378,
     "provincia": "Modena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 12959,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Paolo_Monti_-_Servizio_fotografico_%28Spilamberto%2C_1976%29_-_BEIC_6329212.jpg/330px-Paolo_Monti_-_Servizio_fotografico_%28Spilamberto%2C_1976%29_-_BEIC_6329212.jpg",
     "punteggio": 43
@@ -11516,7 +11516,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 16072,
     "provincia": "Pordenone",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 12950,
     "immagine": null,
     "punteggio": 43
@@ -11740,7 +11740,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 53771,
     "provincia": "Trieste",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 12771,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Comune_di_Muggia_Bandiera_2.0.svg/330px-Comune_di_Muggia_Bandiera_2.0.svg.png",
     "punteggio": 43
@@ -12020,7 +12020,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 30228,
     "provincia": "Forlì-Cesena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 12416,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/San_Mauro_Pascoli-Bandiera.svg/330px-San_Mauro_Pascoli-Bandiera.svg.png",
     "punteggio": 43
@@ -12104,7 +12104,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 11237,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 12382,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/AnzolaDellEmilia2.jpg/330px-AnzolaDellEmilia2.jpg",
     "punteggio": 43
@@ -12174,7 +12174,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 6726,
     "provincia": "Piacenza",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 12361,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/I-PC-Rottofreno.JPG/330px-I-PC-Rottofreno.JPG",
     "punteggio": 43
@@ -12216,7 +12216,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 19331,
     "provincia": "Ferrara",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 12348,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_Portomaggiore.svg/330px-Flag_of_Portomaggiore.svg.png",
     "punteggio": 43
@@ -12734,7 +12734,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 22496,
     "provincia": "Gorizia",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 11887,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Municipio_Ronchi_dei_Legionari.jpg/330px-Municipio_Ronchi_dei_Legionari.jpg",
     "punteggio": 43
@@ -12902,7 +12902,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 31133,
     "provincia": "Pordenone",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 11797,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Spilimbergo_Corso_Roma1.jpg/330px-Spilimbergo_Corso_Roma1.jpg",
     "punteggio": 44
@@ -12930,7 +12930,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 14904,
     "provincia": "Pordenone",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 11782,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/FiumeVeneto-chiesa.jpg/330px-FiumeVeneto-chiesa.jpg",
     "punteggio": 44
@@ -13140,7 +13140,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 18453,
     "provincia": "Ravenna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 11637,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Palazzo_Comunale_-_25_aprile_2021.jpg/330px-Palazzo_Comunale_-_25_aprile_2021.jpg",
     "punteggio": 44
@@ -13280,7 +13280,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 11771,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 11469,
     "immagine": null,
     "punteggio": 44
@@ -13322,7 +13322,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 19864,
     "provincia": "Pordenone",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 11449,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Maniago_04.jpg/330px-Maniago_04.jpg",
     "punteggio": 44
@@ -13420,7 +13420,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 17534,
     "provincia": "Parma",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 11401,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Castello_%28Montechiarugolo%29_-_mastio_e_ala_sud-ovest_2019-06-21.jpg/330px-Castello_%28Montechiarugolo%29_-_mastio_e_ala_sud-ovest_2019-06-21.jpg",
     "punteggio": 44
@@ -13686,7 +13686,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 30359,
     "provincia": "Forlì-Cesena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 11169,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Panorama_bertinoro_drone.jpg/330px-Panorama_bertinoro_drone.jpg",
     "punteggio": 44
@@ -13854,7 +13854,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 22591,
     "provincia": "Modena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 11014,
     "immagine": null,
     "punteggio": 44
@@ -13994,7 +13994,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 25802,
     "provincia": "Ferrara",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 10969,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Flag_of_Codigoro.svg/330px-Flag_of_Codigoro.svg.png",
     "punteggio": 44
@@ -14064,7 +14064,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 17024,
     "provincia": "Ravenna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 10947,
     "immagine": null,
     "punteggio": 44
@@ -14092,7 +14092,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 22511,
     "provincia": "Parma",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 10941,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Torrechiara_-_Castello.JPG/330px-Torrechiara_-_Castello.JPG",
     "punteggio": 44
@@ -14148,7 +14148,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 15140,
     "provincia": "Forlì-Cesena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 10937,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gambettola_001.jpg/330px-Gambettola_001.jpg",
     "punteggio": 44
@@ -14176,7 +14176,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 11660,
     "provincia": "Modena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 10896,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sede_storica_della_Banca_Popolare.JPG/330px-Sede_storica_della_Banca_Popolare.JPG",
     "punteggio": 44
@@ -14232,7 +14232,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 11401,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 10839,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ponterivabella-veduta.jpg/330px-Ponterivabella-veduta.jpg",
     "punteggio": 44
@@ -14260,7 +14260,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 67483,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 10794,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Cividale_del_Friuli.gif/330px-Flag_of_Cividale_del_Friuli.gif",
     "punteggio": 44
@@ -14302,7 +14302,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 6666,
     "provincia": "Parma",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 10777,
     "immagine": null,
     "punteggio": 44
@@ -14386,7 +14386,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 7566,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 10729,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Cadelbosco_di_Sopra_-_Municipio_1.JPG/330px-Cadelbosco_di_Sopra_-_Municipio_1.JPG",
     "punteggio": 44
@@ -14666,7 +14666,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 16438,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 10461,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Montecchio_Emilia_-_panorama_sulla_citt%C3%A0_dalla_piattaforma_esterna_del_mastio_del_castello_2_2023-07-31.jpg/330px-Montecchio_Emilia_-_panorama_sulla_citt%C3%A0_dalla_piattaforma_esterna_del_mastio_del_castello_2_2023-07-31.jpg",
     "punteggio": 44
@@ -14680,7 +14680,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 23416,
     "provincia": "Rimini",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 10454,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Coriano.png/330px-Flag_of_Coriano.png",
     "punteggio": 44
@@ -14708,7 +14708,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 71867,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 10445,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flag_of_Castelnovo_ne%27_Monti.svg/330px-Flag_of_Castelnovo_ne%27_Monti.svg.png",
     "punteggio": 44
@@ -14764,7 +14764,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 29296,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 10424,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gemona_del_Friuli-Bandiera.svg/330px-Gemona_del_Friuli-Bandiera.svg.png",
     "punteggio": 44
@@ -14820,7 +14820,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 7498,
     "provincia": "Ferrara",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 10358,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Flag_of_Terre_del_Reno.svg/330px-Flag_of_Terre_del_Reno.svg.png",
     "punteggio": 44
@@ -14848,7 +14848,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 9598,
     "provincia": "Modena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 10337,
     "immagine": null,
     "punteggio": 44
@@ -14890,7 +14890,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 7554,
     "provincia": "Modena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 10322,
     "immagine": null,
     "punteggio": 44
@@ -15030,7 +15030,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 18780,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 10195,
     "immagine": null,
     "punteggio": 44
@@ -15366,7 +15366,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 19364,
     "provincia": "Rimini",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 10045,
     "immagine": null,
     "punteggio": 44
@@ -15506,7 +15506,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 25562,
     "provincia": "Forlì-Cesena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 9985,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rocca_di_Meldola_-_8.jpg/330px-Rocca_di_Meldola_-_8.jpg",
     "punteggio": 45
@@ -15562,7 +15562,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 29134,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 9953,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Cavriago-Bandiera.svg/330px-Cavriago-Bandiera.svg.png",
     "punteggio": 45
@@ -15968,7 +15968,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 15967,
     "provincia": "Ferrara",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 9740,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Poggio_Renatico.svg/330px-Flag_of_Poggio_Renatico.svg.png",
     "punteggio": 45
@@ -15996,7 +15996,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 8385,
     "provincia": "Ravenna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 9710,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Conselice-Bandiera.svg/330px-Conselice-Bandiera.svg.png",
     "punteggio": 45
@@ -16024,7 +16024,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 53355,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 9701,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bandiera_della_Comunit%C3%A0_di_Tolmezzo.svg/330px-Bandiera_della_Comunit%C3%A0_di_Tolmezzo.svg.png",
     "punteggio": 45
@@ -16038,7 +16038,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 19431,
     "provincia": "Parma",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 9681,
     "immagine": "https://upload.wikimedia.org/wikipedia/it/thumb/5/55/Traversetolo-Bandiera.png/330px-Traversetolo-Bandiera.png",
     "punteggio": 45
@@ -16052,7 +16052,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 13147,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 9678,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/San_Giorgio_martire_%28San_Giorgio_di_Piano%29_01.JPG/330px-San_Giorgio_martire_%28San_Giorgio_di_Piano%29_01.JPG",
     "punteggio": 45
@@ -16164,7 +16164,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 7520,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 9617,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Flag_of_Argelato.svg/330px-Flag_of_Argelato.svg.png",
     "punteggio": 45
@@ -16206,7 +16206,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 7286,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 9591,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Piazzabagnolo.jpg/330px-Piazzabagnolo.jpg",
     "punteggio": 45
@@ -16220,7 +16220,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 8756,
     "provincia": "Modena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 9589,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Panorama_sul_borgo_antico_e_circondato_dalle_viti.jpg/330px-Panorama_sul_borgo_antico_e_circondato_dalle_viti.jpg",
     "punteggio": 45
@@ -16374,7 +16374,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 11726,
     "provincia": "Ravenna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 9485,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Castel_Bolognese-Bandiera.svg/330px-Castel_Bolognese-Bandiera.svg.png",
     "punteggio": 45
@@ -16444,7 +16444,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 16371,
     "provincia": "Forlì-Cesena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 9430,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gatteo_004.jpg/330px-Gatteo_004.jpg",
     "punteggio": 45
@@ -16458,7 +16458,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 23594,
     "provincia": "Rimini",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 9429,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/San_Giovanni_Marignano.jpg/330px-San_Giovanni_Marignano.jpg",
     "punteggio": 45
@@ -16640,7 +16640,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 7026,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 9331,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Chiesa_di_Sant%27Antonio_Abate_%28Malalbergo%29.jpg/330px-Chiesa_di_Sant%27Antonio_Abate_%28Malalbergo%29.jpg",
     "punteggio": 45
@@ -16710,7 +16710,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 34787,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 9295,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Veduta_dal_mastio_della_Rocca_medievale.jpg/330px-Veduta_dal_mastio_della_Rocca_medievale.jpg",
     "punteggio": 45
@@ -16752,7 +16752,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 13635,
     "provincia": "Trento",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 9286,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Lavis_-_Vista_da_San_Lazzaro_01.jpg/330px-Lavis_-_Vista_da_San_Lazzaro_01.jpg",
     "punteggio": 45
@@ -16794,7 +16794,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 6741,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 9249,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Pasian_di_Prato_-_municipio.jpg/330px-Pasian_di_Prato_-_municipio.jpg",
     "punteggio": 45
@@ -16906,7 +16906,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 7943,
     "provincia": "Pordenone",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 9192,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Vista_di_Brugnera_dal_ponte_sul_Livenza.jpg/330px-Vista_di_Brugnera_dal_ponte_sul_Livenza.jpg",
     "punteggio": 45
@@ -17060,7 +17060,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 18030,
     "provincia": "Parma",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 9155,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Reggia_di_Colorno_2011-06.JPG/330px-Reggia_di_Colorno_2011-06.JPG",
     "punteggio": 45
@@ -17256,7 +17256,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 6031,
     "provincia": "Piacenza",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 9076,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Podenzano_-_chiesa_di_San_Germano.jpg/330px-Podenzano_-_chiesa_di_San_Germano.jpg",
     "punteggio": 45
@@ -17480,7 +17480,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 8778,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 8979,
     "immagine": null,
     "punteggio": 45
@@ -17536,7 +17536,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 31314,
     "provincia": "Pordenone",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 8967,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Piancavallo_d%27estate.jpg/330px-Piancavallo_d%27estate.jpg",
     "punteggio": 45
@@ -17592,7 +17592,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 12969,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 8962,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Municipio_di_Albinea.jpg/330px-Municipio_di_Albinea.jpg",
     "punteggio": 45
@@ -17634,7 +17634,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 18366,
     "provincia": "Modena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 8941,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Serramazzoni-Bandiera.svg/330px-Serramazzoni-Bandiera.svg.png",
     "punteggio": 45
@@ -17678,7 +17678,7 @@
     "provincia": "Caserta",
     "regione": "Campania",
     "abitanti": 8921,
-    "immagine": null,
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Frignano_8457_2x_filtered.JPG",
     "punteggio": 45
   },
   {
@@ -17760,7 +17760,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 13460,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 8883,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tarcento_2012.jpg/330px-Tarcento_2012.jpg",
     "punteggio": 45
@@ -18026,7 +18026,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 9418,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 8742,
     "immagine": null,
     "punteggio": 45
@@ -18432,7 +18432,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 12885,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 8577,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Luzzara.jpg/330px-Luzzara.jpg",
     "punteggio": 45
@@ -18572,7 +18572,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 5053,
     "provincia": "Ferrara",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 8530,
     "immagine": null,
     "punteggio": 46
@@ -18670,7 +18670,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 16413,
     "provincia": "Modena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 8488,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Campogalliano%2C_Piazza_nel_centro.jpg/330px-Campogalliano%2C_Piazza_nel_centro.jpg",
     "punteggio": 46
@@ -18754,7 +18754,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 11474,
     "provincia": "Modena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 8454,
     "immagine": null,
     "punteggio": 46
@@ -18796,7 +18796,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 5978,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 8447,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/San_Biagio_a_Bonconvento_%28Bonconvento%2C_Sala_Bolognese%29_01.JPG/330px-San_Biagio_a_Bonconvento_%28Bonconvento%2C_Sala_Bolognese%29_01.JPG",
     "punteggio": 46
@@ -18964,7 +18964,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 11418,
     "provincia": "Pordenone",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 8380,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Prata_di_Pordenone%2C_Municipio_e_Chiesa_di_Santa_Lucia.jpg/330px-Prata_di_Pordenone%2C_Municipio_e_Chiesa_di_Santa_Lucia.jpg",
     "punteggio": 46
@@ -19076,7 +19076,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 8279,
     "provincia": "Pordenone",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 8344,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Zoppola_ViaRomano.jpg/330px-Zoppola_ViaRomano.jpg",
     "punteggio": 46
@@ -19146,7 +19146,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 26579,
     "provincia": "Pordenone",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 8316,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Casarsa.JPG/330px-Casarsa.JPG",
     "punteggio": 46
@@ -19202,7 +19202,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 45804,
     "provincia": "Trento",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 8307,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Levico_Terme_from_near_Tenna_by_Slaunger_2013-07-16_cropped.jpg/330px-Levico_Terme_from_near_Tenna_by_Slaunger_2013-07-16_cropped.jpg",
     "punteggio": 46
@@ -19230,7 +19230,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 21184,
     "provincia": "Bolzano",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 8305,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Unterinn.jpg/330px-Unterinn.jpg",
     "punteggio": 46
@@ -19314,7 +19314,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 16764,
     "provincia": "Piacenza",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 8268,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/La_Rocca_sede_del_Municipio.jpg/330px-La_Rocca_sede_del_Municipio.jpg",
     "punteggio": 46
@@ -19398,7 +19398,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 13493,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 8231,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sanmartino2.JPG/330px-Sanmartino2.JPG",
     "punteggio": 46
@@ -19580,7 +19580,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 17094,
     "provincia": "Ravenna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 8197,
     "immagine": null,
     "punteggio": 46
@@ -19650,7 +19650,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 320,
     "provincia": "Trieste",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 8159,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Duino-Aurisina-Bandiera.svg/330px-Duino-Aurisina-Bandiera.svg.png",
     "punteggio": 46
@@ -20000,7 +20000,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 6937,
     "provincia": "Parma",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 7969,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Rocca_dei_Terzi_%28Sissa%29_-_facciata_e_lato_ovest_2019-06-23.jpg/330px-Rocca_dei_Terzi_%28Sissa%29_-_facciata_e_lato_ovest_2019-06-23.jpg",
     "punteggio": 46
@@ -20056,7 +20056,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 38398,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 7942,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/San_Daniele_zoom.JPG/330px-San_Daniele_zoom.JPG",
     "punteggio": 46
@@ -20238,7 +20238,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 7347,
     "provincia": "Pordenone",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 7892,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Villa_Saccomani_-_Pasiano_di_Pordenone.jpg/330px-Villa_Saccomani_-_Pasiano_di_Pordenone.jpg",
     "punteggio": 46
@@ -20322,7 +20322,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 16829,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 7864,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Santuario_della_Beata_Vergine_-_panorama_sulla_valle_sottostante_e_su_Vergato.jpg/330px-Santuario_della_Beata_Vergine_-_panorama_sulla_valle_sottostante_e_su_Vergato.jpg",
     "punteggio": 46
@@ -20518,7 +20518,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 11237,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 7805,
     "immagine": null,
     "punteggio": 46
@@ -20602,7 +20602,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 11887,
     "provincia": "Trento",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 7758,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mezzolombardo.jpg/330px-Mezzolombardo.jpg",
     "punteggio": 46
@@ -20616,7 +20616,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 7178,
     "provincia": "Piacenza",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 7753,
     "immagine": null,
     "punteggio": 46
@@ -20784,7 +20784,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 5250,
     "provincia": "Parma",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 7701,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Strada_Baganzola_%28Torrile%29_-_centro_2019-06-23.jpg/330px-Strada_Baganzola_%28Torrile%29_-_centro_2019-06-23.jpg",
     "punteggio": 46
@@ -20842,7 +20842,7 @@
     "provincia": "Caserta",
     "regione": "Campania",
     "abitanti": 7678,
-    "immagine": null,
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Recale-Stemma.png",
     "punteggio": 46
   },
   {
@@ -20882,7 +20882,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 12266,
     "provincia": "Ferrara",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 7641,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Vigarano_Mainarda.svg/330px-Flag_of_Vigarano_Mainarda.svg.png",
     "punteggio": 46
@@ -21022,7 +21022,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 9058,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 7592,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Centro_tricesimo.jpg/330px-Centro_tricesimo.jpg",
     "punteggio": 46
@@ -21080,7 +21080,7 @@
     "provincia": "Avellino",
     "regione": "Campania",
     "abitanti": 7563,
-    "immagine": null,
+    "immagine": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Grottaminarda.JPG",
     "punteggio": 46
   },
   {
@@ -21400,7 +21400,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 74112,
     "provincia": "Trento",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 7457,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Cles-Bandiera.svg/330px-Cles-Bandiera.svg.png",
     "punteggio": 46
@@ -21540,7 +21540,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 10947,
     "provincia": "Ferrara",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 7409,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Riva_del_Po.svg/330px-Flag_of_Riva_del_Po.svg.png",
     "punteggio": 46
@@ -21568,7 +21568,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 16160,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 7400,
     "immagine": null,
     "punteggio": 46
@@ -21582,7 +21582,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 20289,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 7390,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Lamborghini%2C_Sant%27Agata_Bolognese%2C_Bologna.jpg/330px-Lamborghini%2C_Sant%27Agata_Bolognese%2C_Bologna.jpg",
     "punteggio": 46
@@ -21722,7 +21722,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 17537,
     "provincia": "Ravenna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 7367,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cotignolasanfrancesco1.jpg/330px-Cotignolasanfrancesco1.jpg",
     "punteggio": 46
@@ -21862,7 +21862,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 15582,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 7282,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/IT-UD-San_Giorgio_di_Nogaro03.jpg/330px-IT-UD-San_Giorgio_di_Nogaro03.jpg",
     "punteggio": 46
@@ -21918,7 +21918,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 14806,
     "provincia": "Bolzano",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 7253,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Astefeld.jpg/330px-Astefeld.jpg",
     "punteggio": 47
@@ -21932,7 +21932,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 13794,
     "provincia": "Rimini",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 7253,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Morciano_di_Romagna.svg/330px-Flag_of_Morciano_di_Romagna.svg.png",
     "punteggio": 47
@@ -22002,7 +22002,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 27187,
     "provincia": "Trento",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 7224,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Borgo-Valsugana-Bandiera.svg/330px-Borgo-Valsugana-Bandiera.svg.png",
     "punteggio": 47
@@ -22058,7 +22058,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 11901,
     "provincia": "Forlì-Cesena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 7212,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Longiano_Italy_ViewSE_matl04426Th.jpg/330px-Longiano_Italy_ViewSE_matl04426Th.jpg",
     "punteggio": 47
@@ -22100,7 +22100,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 5878,
     "provincia": "Modena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 7180,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Centro_storico_di_Cavezzo.jpg/330px-Centro_storico_di_Cavezzo.jpg",
     "punteggio": 47
@@ -22114,7 +22114,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 39428,
     "provincia": "Ravenna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 7180,
     "immagine": null,
     "punteggio": 47
@@ -22142,7 +22142,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 12403,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 7178,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Biagioni_panorama.jpg/330px-Biagioni_panorama.jpg",
     "punteggio": 47
@@ -22170,7 +22170,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 6606,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 7170,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Poviglio_-_piazza_Umberto_I.jpg/330px-Poviglio_-_piazza_Umberto_I.jpg",
     "punteggio": 47
@@ -22282,7 +22282,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 8904,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 7144,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Piazza_Carducci_%28Baricella%29.jpg/330px-Piazza_Carducci_%28Baricella%29.jpg",
     "punteggio": 47
@@ -22310,7 +22310,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 7250,
     "provincia": "Gorizia",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 7133,
     "immagine": null,
     "punteggio": 47
@@ -22352,7 +22352,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 8855,
     "provincia": "Piacenza",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 7129,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Rivergaro_-_piazza_Paolo.jpg/330px-Rivergaro_-_piazza_Paolo.jpg",
     "punteggio": 47
@@ -22506,7 +22506,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 46344,
     "provincia": "Bolzano",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 7079,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Castelrotto-Bandiera.svg/330px-Castelrotto-Bandiera.svg.png",
     "punteggio": 47
@@ -22520,7 +22520,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 18072,
     "provincia": "Parma",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 7079,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fontanellato%2C_Rocca_Sanvitale.JPG/330px-Fontanellato%2C_Rocca_Sanvitale.JPG",
     "punteggio": 47
@@ -22660,7 +22660,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 6104,
     "provincia": "Ferrara",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 7019,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/07180018tresigalloarcade.JPG/330px-07180018tresigalloarcade.JPG",
     "punteggio": 47
@@ -22674,7 +22674,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 9034,
     "provincia": "Trento",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 7018,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Taio_-_panorama_-_01.JPG/330px-Taio_-_panorama_-_01.JPG",
     "punteggio": 47
@@ -22702,7 +22702,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 32304,
     "provincia": "Gorizia",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 7014,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Cormons.jpg/330px-Cormons.jpg",
     "punteggio": 47
@@ -22730,7 +22730,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 31212,
     "provincia": "Rimini",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 7009,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Novafeltria.jpg/330px-Novafeltria.jpg",
     "punteggio": 47
@@ -22800,7 +22800,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 70883,
     "provincia": "Bolzano",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 6985,
     "immagine": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/Vipiteno-Bandiera.png/330px-Vipiteno-Bandiera.png",
     "punteggio": 47
@@ -22828,7 +22828,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 88020,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 6979,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Lignano_Sabbiadoro-Bandiera.svg/300px-Lignano_Sabbiadoro-Bandiera.svg.png",
     "punteggio": 47
@@ -22884,7 +22884,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 5409,
     "provincia": "Rimini",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 6969,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Torre_civica_di_montescudo.jpg/330px-Torre_civica_di_montescudo.jpg",
     "punteggio": 47
@@ -23080,7 +23080,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 21365,
     "provincia": "Parma",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 6904,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Veduta_di_Rocca_Pallavicino_da_Piazza_Giuseppe_Verdi_-_Busseto.JPG/330px-Veduta_di_Rocca_Pallavicino_da_Piazza_Giuseppe_Verdi_-_Busseto.JPG",
     "punteggio": 47
@@ -23136,7 +23136,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 10603,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 6885,
     "immagine": null,
     "punteggio": 47
@@ -23150,7 +23150,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 39024,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 6885,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Marzabotto%2C_centro_abitato_di_fronte_alla_chiesa.JPG/330px-Marzabotto%2C_centro_abitato_di_fronte_alla_chiesa.JPG",
     "punteggio": 47
@@ -23206,7 +23206,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 13779,
     "provincia": "Forlì-Cesena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 6873,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Comume_mercato_saraceno_di_giorno_anno_2020.jpg/330px-Comume_mercato_saraceno_di_giorno_anno_2020.jpg",
     "punteggio": 47
@@ -23248,7 +23248,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 14495,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 6858,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Chiesa_di_Santa_Maria_Assunta_%28Martignacco%29_02.jpg/330px-Chiesa_di_Santa_Maria_Assunta_%28Martignacco%29_02.jpg",
     "punteggio": 47
@@ -23332,7 +23332,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 7441,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 6845,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Chiesa_di_San_Martino_%28Terenzano%2C_Pozzuolo_del_Friuli%29.jpg/330px-Chiesa_di_San_Martino_%28Terenzano%2C_Pozzuolo_del_Friuli%29.jpg",
     "punteggio": 47
@@ -23738,7 +23738,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 35845,
     "provincia": "Parma",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 6739,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borgotaro_vue_du_pont_de_San_Rocco.jpg/330px-Borgotaro_vue_du_pont_de_San_Rocco.jpg",
     "punteggio": 47
@@ -23850,7 +23850,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 8088,
     "provincia": "Piacenza",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 6713,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/I-PC-Pontenure.JPG/330px-I-PC-Pontenure.JPG",
     "punteggio": 47
@@ -23962,7 +23962,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 8416,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 6685,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Palazzo_Municipale_%28Castello_d%27Argile%29.JPG/330px-Palazzo_Municipale_%28Castello_d%27Argile%29.JPG",
     "punteggio": 47
@@ -24018,7 +24018,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 25746,
     "provincia": "Modena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 6651,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/San_Cesario%2C_chiesa_di_San_Cesario_sul_Panaro%2C_Italia.jpg/330px-San_Cesario%2C_chiesa_di_San_Cesario_sul_Panaro%2C_Italia.jpg",
     "punteggio": 47
@@ -24438,7 +24438,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 22833,
     "provincia": "Forlì-Cesena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 6527,
     "immagine": null,
     "punteggio": 47
@@ -24564,7 +24564,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 27188,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 6494,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Dozza_piazza_Zotti_e_campanile.jpg/330px-Dozza_piazza_Zotti_e_campanile.jpg",
     "punteggio": 47
@@ -24648,7 +24648,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 5692,
     "provincia": "Modena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 6482,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Medolla_Municipio.JPG/330px-Medolla_Municipio.JPG",
     "punteggio": 47
@@ -24718,7 +24718,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 12921,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 6450,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/MonzunoPanorama1.jpg/330px-MonzunoPanorama1.jpg",
     "punteggio": 47
@@ -24830,7 +24830,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 12999,
     "provincia": "Bolzano",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 6420,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Silandro-Bandiera.svg/330px-Silandro-Bandiera.svg.png",
     "punteggio": 47
@@ -25040,7 +25040,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 14466,
     "provincia": "Modena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 6370,
     "immagine": null,
     "punteggio": 47
@@ -25068,7 +25068,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 192780,
     "provincia": "Forlì-Cesena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 6363,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Predappio%2C_chiesa_di_Sant%27Antonio_da_Padova_%2802%29.jpg/330px-Predappio%2C_chiesa_di_Sant%27Antonio_da_Padova_%2802%29.jpg",
     "punteggio": 47
@@ -25096,7 +25096,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 31010,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 6359,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Palazzo_Bentivoglio_%28Gualtieri%29_-_facciata_6_2022-07-13.jpg/330px-Palazzo_Bentivoglio_%28Gualtieri%29_-_facciata_6_2022-07-13.jpg",
     "punteggio": 47
@@ -25110,7 +25110,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 10579,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 6358,
     "immagine": null,
     "punteggio": 47
@@ -25124,7 +25124,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 22599,
     "provincia": "Gorizia",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 6353,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/EFrancoGradiscaViaCiotti200903.JPG/330px-EFrancoGradiscaViaCiotti200903.JPG",
     "punteggio": 47
@@ -25194,7 +25194,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 8442,
     "provincia": "Ferrara",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 6343,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_Mesola.svg/330px-Flag_of_Mesola.svg.png",
     "punteggio": 47
@@ -25348,7 +25348,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 12420,
     "provincia": "Pordenone",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 6302,
     "immagine": null,
     "punteggio": 47
@@ -25376,7 +25376,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 8250,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 6297,
     "immagine": null,
     "punteggio": 47
@@ -25502,7 +25502,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 5390,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 6248,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Chiesa_di_San_Valentino_%28San_Valentino%2C_Fiumicello_Villa_Vicentina%29_02.jpg/330px-Chiesa_di_San_Valentino_%28San_Valentino%2C_Fiumicello_Villa_Vicentina%29_02.jpg",
     "punteggio": 47
@@ -25852,7 +25852,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 9577,
     "provincia": "Pordenone",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 6169,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Castello_Caneva_01.JPG/330px-Castello_Caneva_01.JPG",
     "punteggio": 47
@@ -25866,7 +25866,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 8011,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 6152,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Rocca_%28San_Polo_d%27Enza%29_-_lati_nord_e_ovest_2022-07-24.jpg/330px-Rocca_%28San_Polo_d%27Enza%29_-_lati_nord_e_ovest_2022-07-24.jpg",
     "punteggio": 48
@@ -25922,7 +25922,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 10702,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 6137,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Monterenzio.jpg/330px-Monterenzio.jpg",
     "punteggio": 48
@@ -25992,7 +25992,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 6283,
     "provincia": "Piacenza",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 6120,
     "immagine": null,
     "punteggio": 48
@@ -26062,7 +26062,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 5035,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 6107,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Palazzo_Municipale_Rio_Saliceto.JPG/330px-Palazzo_Municipale_Rio_Saliceto.JPG",
     "punteggio": 48
@@ -26104,7 +26104,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 9992,
     "provincia": "Bolzano",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 6086,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Naturno-Bandiera.svg/330px-Naturno-Bandiera.svg.png",
     "punteggio": 48
@@ -26160,7 +26160,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 10097,
     "provincia": "Parma",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 6063,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Rocca_di_Sala_Baganza.JPG/330px-Rocca_di_Sala_Baganza.JPG",
     "punteggio": 48
@@ -26188,7 +26188,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 11683,
     "provincia": "Gorizia",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 6060,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Pieris_0472.jpg/330px-Pieris_0472.jpg",
     "punteggio": 48
@@ -26202,7 +26202,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 17889,
     "provincia": "Parma",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 6056,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Panorama_Fornovo.JPG/330px-Panorama_Fornovo.JPG",
     "punteggio": 48
@@ -26258,7 +26258,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 13769,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 6045,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Fagagna_centro-piazza.jpg/330px-Fagagna_centro-piazza.jpg",
     "punteggio": 48
@@ -26356,7 +26356,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 44081,
     "provincia": "Bolzano",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 6003,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/San_Martino_in_Valla_Aurina.JPG/330px-San_Martino_in_Valla_Aurina.JPG",
     "punteggio": 48
@@ -26370,7 +26370,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 7412,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 6000,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/S.Giovanni_di_Manzano_2.11.17._%28BildID_15610211%29.jpg/330px-S.Giovanni_di_Manzano_2.11.17._%28BildID_15610211%29.jpg",
     "punteggio": 48
@@ -26622,7 +26622,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 6782,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 5920,
     "immagine": null,
     "punteggio": 48
@@ -26706,7 +26706,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 8992,
     "provincia": "Parma",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 5905,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/San_Secondo_Parmense-centro_storico.jpg/330px-San_Secondo_Parmense-centro_storico.jpg",
     "punteggio": 48
@@ -26902,7 +26902,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 25209,
     "provincia": "Bolzano",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 5861,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Campo_Tures.gif/330px-Flag_of_Campo_Tures.gif",
     "punteggio": 48
@@ -27056,7 +27056,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 11337,
     "provincia": "Ravenna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 5823,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Riolo_Terme_panorama.jpg/330px-Riolo_Terme_panorama.jpg",
     "punteggio": 48
@@ -27084,7 +27084,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 9292,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 5804,
     "immagine": null,
     "punteggio": 48
@@ -27238,7 +27238,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 4869,
     "provincia": "Pordenone",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 5760,
     "immagine": null,
     "punteggio": 48
@@ -27308,7 +27308,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 11439,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 5750,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Galliera.svg/330px-Flag_of_Galliera.svg.png",
     "punteggio": 48
@@ -27434,7 +27434,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 6175,
     "provincia": "Piacenza",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 5718,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gossolengo_municipio.jpg/330px-Gossolengo_municipio.jpg",
     "punteggio": 48
@@ -27518,7 +27518,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 11660,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 5701,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Castello_di_Susans_1.jpg/330px-Castello_di_Susans_1.jpg",
     "punteggio": 48
@@ -27756,7 +27756,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 19322,
     "provincia": "Trieste",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 5646,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dolina%28TS%29.jpg/330px-Dolina%28TS%29.jpg",
     "punteggio": 48
@@ -27910,7 +27910,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 8749,
     "provincia": "Ferrara",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 5609,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Ostellato.svg/330px-Flag_of_Ostellato.svg.png",
     "punteggio": 48
@@ -27924,7 +27924,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 31273,
     "provincia": "Forlì-Cesena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 5599,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bagno_di_Romagna.jpg/330px-Bagno_di_Romagna.jpg",
     "punteggio": 48
@@ -27966,7 +27966,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 5923,
     "provincia": "Piacenza",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 5593,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Piazza_Marconi_San_Giorgio.jpg/330px-Piazza_Marconi_San_Giorgio.jpg",
     "punteggio": 48
@@ -28106,7 +28106,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 48949,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 5568,
     "immagine": null,
     "punteggio": 48
@@ -28148,7 +28148,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 9496,
     "provincia": "Parma",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 5560,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Chiesa_di_San_Bernardo%2C_Fontevivo.jpg/330px-Chiesa_di_San_Bernardo%2C_Fontevivo.jpg",
     "punteggio": 48
@@ -28162,7 +28162,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 5240,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 5560,
     "immagine": null,
     "punteggio": 48
@@ -28302,7 +28302,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 21745,
     "provincia": "Bolzano",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 5529,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Neumarkt_Egna.jpg/330px-Neumarkt_Egna.jpg",
     "punteggio": 48
@@ -28400,7 +28400,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 23149,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 5501,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Piazza_Marconi-lato_torre_dell%27orologio.jpg/330px-Piazza_Marconi-lato_torre_dell%27orologio.jpg",
     "punteggio": 48
@@ -28512,7 +28512,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 19885,
     "provincia": "Trento",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 5460,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_Mezzocorona_%28without_CoA%29.svg/330px-Flag_of_Mezzocorona_%28without_CoA%29.svg.png",
     "punteggio": 48
@@ -28526,7 +28526,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 16084,
     "provincia": "Trento",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 5455,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ValDiConcei%2BPieveDiLedro-2009-09-12.JPG/330px-ValDiConcei%2BPieveDiLedro-2009-09-12.JPG",
     "punteggio": 48
@@ -28568,7 +28568,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 9575,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 5438,
     "immagine": null,
     "punteggio": 48
@@ -28624,7 +28624,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 8849,
     "provincia": "Piacenza",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 5424,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Palazzo_Comunale_%28Castelvetro_Piacentino%29_-_facciata_2022-08-09.jpg/330px-Palazzo_Comunale_%28Castelvetro_Piacentino%29_-_facciata_2022-08-09.jpg",
     "punteggio": 48
@@ -28694,7 +28694,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 9000,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 5410,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Chiesa_Campegine_2009_Pepo.jpg/330px-Chiesa_Campegine_2009_Pepo.jpg",
     "punteggio": 48
@@ -28834,7 +28834,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 5301,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 5379,
     "immagine": null,
     "punteggio": 48
@@ -28904,7 +28904,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 10568,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 5365,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/I-RE-Boretto2.JPG/330px-I-RE-Boretto2.JPG",
     "punteggio": 48
@@ -29114,7 +29114,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 7521,
     "provincia": "Modena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 5309,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Colline_sopra_Casona_di_Marano_sul_Panaro_-_panoramio.jpg/330px-Colline_sopra_Casona_di_Marano_sul_Panaro_-_panoramio.jpg",
     "punteggio": 48
@@ -29128,7 +29128,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 85833,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 5308,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Palmanova.svg/330px-Flag_of_Palmanova.svg.png",
     "punteggio": 48
@@ -29198,7 +29198,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 6943,
     "provincia": "Bolzano",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 5292,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Latsch.jpg/330px-Latsch.jpg",
     "punteggio": 48
@@ -29310,7 +29310,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 6488,
     "provincia": "Trento",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 5257,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Valle_dei_Laghi%2C_vista_da_SP18_dir_Ranzo_02.jpg/330px-Valle_dei_Laghi%2C_vista_da_SP18_dir_Ranzo_02.jpg",
     "punteggio": 48
@@ -29352,7 +29352,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 14368,
     "provincia": "Bolzano",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 5244,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mals_2023a.jpg/330px-Mals_2023a.jpg",
     "punteggio": 48
@@ -29562,7 +29562,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 7858,
     "provincia": "Trento",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 5201,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Vigolo_Vattaro-town_hall.jpg/330px-Vigolo_Vattaro-town_hall.jpg",
     "punteggio": 49
@@ -29702,7 +29702,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 10745,
     "provincia": "Piacenza",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 5177,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Castello_%28Monticelli_d%27Ongina%29_-_lati_sud_e_ovest_1_2022-08-09.jpg/330px-Castello_%28Monticelli_d%27Ongina%29_-_lati_sud_e_ovest_1_2022-08-09.jpg",
     "punteggio": 49
@@ -29842,7 +29842,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 5162,
     "provincia": "Parma",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 5157,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Piazza_IV_Novembre_%28Lesignano_de%27_Bagni%29_-_lato_sud_2019-06-26.jpg/330px-Piazza_IV_Novembre_%28Lesignano_de%27_Bagni%29_-_lato_sud_2019-06-26.jpg",
     "punteggio": 49
@@ -29898,7 +29898,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 11582,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 5152,
     "immagine": null,
     "punteggio": 49
@@ -30052,7 +30052,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 8198,
     "provincia": "Trento",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 5120,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Dro_20141102.jpg/330px-Dro_20141102.jpg",
     "punteggio": 49
@@ -30108,7 +30108,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 5790,
     "provincia": "Rimini",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 5103,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Torriana_maggio_2011.jpg/330px-Torriana_maggio_2011.jpg",
     "punteggio": 49
@@ -30206,7 +30206,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 3675,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 5084,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Chiesa_Pagnacco_02.jpg/330px-Chiesa_Pagnacco_02.jpg",
     "punteggio": 49
@@ -30262,7 +30262,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 17932,
     "provincia": "Bolzano",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 5069,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Algund_%28S%C3%BCdtirol%29_von_oben.JPG/330px-Algund_%28S%C3%BCdtirol%29_von_oben.JPG",
     "punteggio": 49
@@ -30724,7 +30724,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 6322,
     "provincia": "Bolzano",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 4996,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Terlan_in_S%C3%BCdtirol.jpg/330px-Terlan_in_S%C3%BCdtirol.jpg",
     "punteggio": 49
@@ -30738,7 +30738,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 8355,
     "provincia": "Pordenone",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 4996,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Chiesa_di_San_Giorgio_Martire_%28Chions%29.jpg/330px-Chiesa_di_San_Giorgio_Martire_%28Chions%29.jpg",
     "punteggio": 49
@@ -31018,7 +31018,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 20783,
     "provincia": "Trento",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 4921,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Primiero_San_Martino_di_Castrozza-Bandiera.svg/330px-Primiero_San_Martino_di_Castrozza-Bandiera.svg.png",
     "punteggio": 49
@@ -31200,7 +31200,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 15382,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 4884,
     "immagine": null,
     "punteggio": 49
@@ -31494,7 +31494,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 9248,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 4827,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mortegliano.jpg/330px-Mortegliano.jpg",
     "punteggio": 49
@@ -31620,7 +31620,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 8550,
     "provincia": "Piacenza",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 4813,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Po_Roncarolo.jpg/330px-Po_Roncarolo.jpg",
     "punteggio": 49
@@ -31662,7 +31662,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 46995,
     "provincia": "Modena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 4805,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Zocca_-_Zocca%2C_Modena%2C_Italia_-_2_Aprile_2024.jpg/330px-Zocca_-_Zocca%2C_Modena%2C_Italia_-_2_Aprile_2024.jpg",
     "punteggio": 49
@@ -31788,7 +31788,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 9518,
     "provincia": "Parma",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 4774,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Piazza_Bonifacio_Meli_Lupi_%28Soragna%29_-_rocca_Meli_Lupi_e_chiesa_di_San_Giacomo_2019-06-18.jpg/330px-Piazza_Bonifacio_Meli_Lupi_%28Soragna%29_-_rocca_Meli_Lupi_e_chiesa_di_San_Giacomo_2019-06-18.jpg",
     "punteggio": 49
@@ -31844,7 +31844,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 6225,
     "provincia": "Piacenza",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 4768,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Palazzo_Landi-_ingresso_lato_sud.jpg/330px-Palazzo_Landi-_ingresso_lato_sud.jpg",
     "punteggio": 49
@@ -31928,7 +31928,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 14914,
     "provincia": "Piacenza",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 4754,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Vista_corte.JPG/330px-Vista_corte.JPG",
     "punteggio": 49
@@ -32096,7 +32096,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 84764,
     "provincia": "Bolzano",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 4721,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Urtij%C3%ABi_cun_l_Sela_Y_Saslonch_da_Tlesura.jpg/330px-Urtij%C3%ABi_cun_l_Sela_Y_Saslonch_da_Tlesura.jpg",
     "punteggio": 49
@@ -32194,7 +32194,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 21166,
     "provincia": "Piacenza",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 4701,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Castell%27Arquato%2C_uno_sguardo_pi%C3%B9_ampio_-_panoramio.jpg/330px-Castell%27Arquato%2C_uno_sguardo_pi%C3%B9_ampio_-_panoramio.jpg",
     "punteggio": 49
@@ -32208,7 +32208,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 6816,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 4698,
     "immagine": null,
     "punteggio": 49
@@ -32292,7 +32292,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 23950,
     "provincia": "Piacenza",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 4676,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Castello_di_Riva_a_Ponte_dell%27Olio.JPG/330px-Castello_di_Riva_a_Ponte_dell%27Olio.JPG",
     "punteggio": 49
@@ -32362,7 +32362,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 8132,
     "provincia": "Ferrara",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 4665,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Lagosanto.png/330px-Flag_of_Lagosanto.png",
     "punteggio": 49
@@ -32390,7 +32390,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 6659,
     "provincia": "Trento",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 4663,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ville_d_Anaunia_-_composizione_-_01.jpg/330px-Ville_d_Anaunia_-_composizione_-_01.jpg",
     "punteggio": 49
@@ -32824,7 +32824,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 12480,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 4596,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Casina_inverno_06.jpg/330px-Casina_inverno_06.jpg",
     "punteggio": 49
@@ -32838,7 +32838,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 14291,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 4593,
     "immagine": null,
     "punteggio": 49
@@ -32936,7 +32936,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 6081,
     "provincia": "Udine",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 4579,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Chiesa_di_San_Michele_Arcangelo_%28Ontagnano%2C_Gonars%29_04.jpg/330px-Chiesa_di_San_Michele_Arcangelo_%28Ontagnano%2C_Gonars%29_04.jpg",
     "punteggio": 49
@@ -32964,7 +32964,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 6850,
     "provincia": "Pordenone",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 4575,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Chiesa_di_San_Giorgio_Martire_%28San_Giorgio_della_Richinvelda%29_01.jpg/330px-Chiesa_di_San_Giorgio_Martire_%28San_Giorgio_della_Richinvelda%29_01.jpg",
     "punteggio": 49
@@ -33076,7 +33076,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 10926,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 4556,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Loiano%2C_panorama_invernale.jpg/330px-Loiano%2C_panorama_invernale.jpg",
     "punteggio": 49
@@ -33160,7 +33160,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 3945,
     "provincia": "Piacenza",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 4534,
     "immagine": null,
     "punteggio": 49
@@ -33258,7 +33258,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 51329,
     "provincia": "Trento",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 4508,
     "immagine": "https://upload.wikimedia.org/wikipedia/it/thumb/f/ff/Predazzo-Gonfalone.png/300px-Predazzo-Gonfalone.png",
     "punteggio": 49
@@ -33412,7 +33412,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 10266,
     "provincia": "Trento",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 4483,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Storo_da_Faserno.JPG/330px-Storo_da_Faserno.JPG",
     "punteggio": 49
@@ -33510,7 +33510,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 14797,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 4467,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Castel_Guelfo_di_Bologna-Bandiera.svg/330px-Castel_Guelfo_di_Bologna-Bandiera.svg.png",
     "punteggio": 49
@@ -33636,7 +33636,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 15539,
     "provincia": "Ravenna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 4456,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Solarolo-Bandiera.svg/330px-Solarolo-Bandiera.svg.png",
     "punteggio": 49
@@ -33888,7 +33888,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 7518,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 4414,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Vezzano.JPG/330px-Vezzano.JPG",
     "punteggio": 50
@@ -34420,7 +34420,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 7586,
     "provincia": "Modena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 4308,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Valle_del_Panaro.jpg/330px-Valle_del_Panaro.jpg",
     "punteggio": 50
@@ -34518,7 +34518,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 22895,
     "provincia": "Forlì-Cesena",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 4295,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ponte_della_Signora_8%2C_Modigliana.JPG/330px-Ponte_della_Signora_8%2C_Modigliana.JPG",
     "punteggio": 50
@@ -34546,7 +34546,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 6411,
     "provincia": "Piacenza",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 4292,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Castello_Vigolzone_ingresso.jpg/330px-Castello_Vigolzone_ingresso.jpg",
     "punteggio": 50
@@ -34686,7 +34686,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 23999,
     "provincia": "Bologna",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 4274,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/San_Benedetto_Val_di_Sambro_-_the_village_6.JPG/330px-San_Benedetto_Val_di_Sambro_-_the_village_6.JPG",
     "punteggio": 50
@@ -35190,7 +35190,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 5264,
     "provincia": "Trento",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 4178,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Italy_provincial_location_map_2016.svg/330px-Italy_provincial_location_map_2016.svg.png",
     "punteggio": 50
@@ -35274,7 +35274,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 8498,
     "provincia": "Reggio Emilia",
-    "regione": "Emilia-Romagna",
+    "regione": "Emilia Romagna",
     "abitanti": 4170,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cavola_%28Toano%29.jpg/330px-Cavola_%28Toano%29.jpg",
     "punteggio": 50
@@ -35330,7 +35330,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 22317,
     "provincia": "Trento",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 4162,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Brentonico.jpg/330px-Brentonico.jpg",
     "punteggio": 50
@@ -35386,7 +35386,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 8690,
     "provincia": "Pordenone",
-    "regione": "Friuli-Venezia Giulia",
+    "regione": "Friuli Venezia Giulia",
     "abitanti": 4152,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Montereale_Valcellina_02.jpg/330px-Montereale_Valcellina_02.jpg",
     "punteggio": 50
@@ -35582,7 +35582,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 13408,
     "provincia": "Bolzano",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 4127,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Blick-auf-deutschnofen.jpg/330px-Blick-auf-deutschnofen.jpg",
     "punteggio": 50
@@ -35638,7 +35638,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 11148,
     "provincia": "Trento",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 4121,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Castello_di_Avio_08.jpg/330px-Castello_di_Avio_08.jpg",
     "punteggio": 50
@@ -35652,7 +35652,7 @@
     "flag_capoluogo": "NO",
     "pageviews": 9669,
     "provincia": "Trento",
-    "regione": "Trentino-Alto Adige",
+    "regione": "Trentino Alto Adige",
     "abitanti": 4117,
     "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/San_Michele_all%27Adige-panorama_from_west.jpg/330px-San_Michele_all%27Adige-panorama_from_west.jpg",
     "punteggio": 50
