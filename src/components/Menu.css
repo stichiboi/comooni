@@ -9,10 +9,14 @@ h1 {
   align-items: stretch;
   justify-content: center;
   gap: 2em;
-  padding: 0 0.2em;
+  padding: 0 1em;
+  box-sizing: border-box;
 }
 
 .difficulty-buttons {
   display: grid;
   gap: 10px;
+  padding: 1em;
+  padding: 1em;
+  box-sizing: border-box;
 }
