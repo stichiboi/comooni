@@ -1,6 +1,7 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import type { GameStats } from "../types";
 import { faCheck, faXmark } from "@fortawesome/free-solid-svg-icons";
+import "./Recap.css";
 
 interface RecapProps {
   gameStats: GameStats;
@@ -8,19 +9,16 @@ interface RecapProps {
 
 export function Recap({ gameStats }: RecapProps) {
   return (
-    <div>
-      <h2>Risultati</h2>
+    <div className="recap">
       <h3>Punteggio: {gameStats.score}</h3>
-      <h3>Difficoltà: {gameStats.difficulty}</h3>
-      <table>
-        {/* <thead></thead> */}
+      <table className="recap-table">
         <tbody>
-          {gameStats.answers.map((answer) => (
-            <tr key={answer.question.title}>
-              <td>{answer.question.title}</td>
-              <td>{answer.question.answer}</td>
-              <td>
-                {answer.isCorrect ? (
+          {gameStats.answers.map(({ isCorrect, question }) => (
+            <tr key={question.title}>
+              <td>{question.title}</td>
+              <td>{question.answer}</td>
+              <td className={isCorrect ? "right" : "wrong"}>
+                {isCorrect ? (
                   <FontAwesomeIcon icon={faCheck} />
                 ) : (
                   <FontAwesomeIcon icon={faXmark} />

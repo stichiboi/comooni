@@ -1,5 +1,5 @@
 import { useQuery } from "@tanstack/react-query";
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import type { DataPoint, Question } from "../types";
 import "./GameRunner.css";
 import { ProgressBar } from "./generic/ProgressBar";
@@ -19,11 +19,16 @@ function mapDataPointToQuestion(dataPoint: DataPoint): Question {
   };
 }
 
-const GAME_LENGTH = 3;
+const GAME_LENGTH = 10;
 
 export function GameRunner({ difficulty, onGameOver }: GameRunnerProps) {
-  const [currentQuestion, setCurrentQuestion] = useState<number>(0);
   const [score, setScore] = useState<number[]>([]);
+  const currentQuestion = useMemo<number>(() => score.length, [score]);
+  const isGameOver = useMemo<boolean>(
+    () => currentQuestion === GAME_LENGTH,
+    [currentQuestion]
+  );
+
   const {
     data: questions,
     isLoading,
@@ -49,15 +54,16 @@ export function GameRunner({ difficulty, onGameOver }: GameRunnerProps) {
 
   const onAnswer = (isCorrect: boolean) => {
     const newScore = isCorrect ? 1 : 0;
-    setScore((prev) => [...prev, newScore]);
-    setCurrentQuestion((prev) => prev + 1);
-    if (questions && currentQuestion < questions.length - 1) {
-      setIsTransitioning(true);
-    }
+    setScore((prev) => {
+      if (prev.length < GAME_LENGTH - 1) {
+        setIsTransitioning(true);
+      }
+      return [...prev, newScore];
+    });
   };
 
   useEffect(() => {
-    if (questions && currentQuestion === questions.length) {
+    if (questions && isGameOver) {
       onGameOver(
         score.map((isCorrect: number, index: number) => ({
           question: questions![index]!,
@@ -65,7 +71,7 @@ export function GameRunner({ difficulty, onGameOver }: GameRunnerProps) {
         }))
       );
     }
-  }, [currentQuestion, questions, score, onGameOver]);
+  }, [isGameOver, questions, score, onGameOver]);
 
   useEffect(() => {
     if (isTransitioning) {
@@ -110,13 +116,15 @@ export function GameRunner({ difficulty, onGameOver }: GameRunnerProps) {
         {isTransitioning && (
           <QuestionComponent
             onAnswer={onAnswer}
-            question={questions[currentQuestion - 1]!}
+            question={questions.at(currentQuestion - 1)!}
           />
         )}
-        <QuestionComponent
-          onAnswer={onAnswer}
-          question={questions[currentQuestion]}
-        />
+        {!isGameOver && (
+          <QuestionComponent
+            onAnswer={onAnswer}
+            question={questions.at(currentQuestion)!}
+          />
+        )}
       </div>
     </div>
   );

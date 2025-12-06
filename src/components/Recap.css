@@ -1,0 +1,15 @@
+.recap {
+  width: 100%;
+}
+
+.recap-table {
+  width: 100%;
+}
+
+.right {
+  color: var(--green);
+}
+
+.wrong {
+  color: var(--red);
+}
