@@ -10,7 +10,9 @@ interface RecapProps {
 export function Recap({ gameStats }: RecapProps) {
   return (
     <div className="recap">
-      <h3>Punteggio: {gameStats.score}</h3>
+      <h3>
+        <span>Punteggio:</span> <span>{gameStats.score}</span>
+      </h3>
       <table className="recap-table">
         <tbody>
           {gameStats.answers.map(({ isCorrect, question }) => (

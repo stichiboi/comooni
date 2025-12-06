@@ -3,12 +3,20 @@ h1 {
   text-transform: lowercase;
 }
 
+hr {
+  width: 100%;
+  border: none;
+  height: 1px;
+  background-color: var(--dark);
+  border-radius: 100%;
+}
+
 .menu {
   display: flex;
   flex-direction: column;
   align-items: stretch;
   justify-content: center;
-  gap: 2em;
+  gap: 1em;
   padding: 0 1em;
   box-sizing: border-box;
 }

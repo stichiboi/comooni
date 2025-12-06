@@ -6,10 +6,18 @@
   width: 100%;
 }
 
+.recap > h3 {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
 .right {
+  text-align: right;
   color: var(--green);
 }
 
 .wrong {
+  text-align: right;
   color: var(--red);
 }

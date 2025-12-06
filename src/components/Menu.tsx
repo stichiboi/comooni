@@ -32,11 +32,14 @@ export function Menu({ onStartGame, previousGameStats }: MenuProps) {
 
   return (
     <main className="menu">
-      <h1>{"Comooni"}</h1>
-      <section>
-        Indovina la regione dei comuni italiani, basandoti solo su nome e
-        immagine!
-      </section>
+      <div>
+        <h1>{"Comooni"}</h1>
+        <section>
+          Indovina la regione dei comuni italiani, basandoti solo su nome e
+          immagine!
+        </section>
+      </div>
+      <hr />
       {previousGameStats ? <Recap gameStats={previousGameStats} /> : null}
 
       <section className="difficulty-buttons">
