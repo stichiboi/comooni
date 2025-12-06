@@ -4,5 +4,5 @@ import favicons from "@peterek/vite-plugin-favicons";
 
 // https://vite.dev/config/
 export default defineConfig({
-  plugins: [react(), favicons("src/assets/comooni-favicon.svg")],
+  plugins: [react(), favicons("public/images/comooni-favicon.svg")],
 });
