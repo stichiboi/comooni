@@ -1,5 +1,5 @@
-import type { Question } from "../types";
 import { useCallback, useMemo, useState } from "react";
+import type { Question } from "../types";
 import "./Question.css";
 import { Button } from "./generic/Button";
 
@@ -41,6 +41,7 @@ function getRandomOptions(answer: string, count: number = 4) {
   }
   // shuffle array
   const shuffled = Array.from(indexes).sort(() => Math.random() - 0.5);
+  console.log(shuffled);
   return shuffled.map((index) => regions[index]);
 }
 
@@ -67,10 +68,11 @@ export function Question({ question, onAnswer }: QuestionProps) {
     return (
       <section className={"option-buttons"}>
         {rawOptions.map((option, index) => {
-          const classNames = ["align-left", "option"];
+          const classNames = ["align-left", "option", "option-button"];
+          const isCorrect = option === question.answer;
           if (hasAnswered) {
             classNames.push("disabled");
-            if (option === question.answer) {
+            if (isCorrect) {
               classNames.push("correct");
             } else if (index === selected) {
               classNames.push("incorrect");
@@ -100,7 +102,15 @@ export function Question({ question, onAnswer }: QuestionProps) {
     <main className="question">
       <section className="content">
         <img src={question.imageUrl} alt={question.title} />
-        <h2>{question.title}</h2>
+        <h2>
+          <span>{question.title} </span>
+          <span> - </span>
+          {hasAnswered && question.province ? (
+            <span className="province">{question.province}</span>
+          ) : (
+            "???"
+          )}
+        </h2>
       </section>
       <div className="actions">
         {options}

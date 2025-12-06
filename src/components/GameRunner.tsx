@@ -1,9 +1,9 @@
+import { useQuery } from "@tanstack/react-query";
 import { useEffect, useState } from "react";
 import type { DataPoint, Question } from "../types";
-import { Question as QuestionComponent } from "./Question";
-import { useQuery } from "@tanstack/react-query";
-import { ProgressBar } from "./generic/ProgressBar";
 import "./GameRunner.css";
+import { ProgressBar } from "./generic/ProgressBar";
+import { Question as QuestionComponent } from "./Question";
 
 interface GameRunnerProps {
   difficulty: string;
@@ -13,9 +13,9 @@ interface GameRunnerProps {
 function mapDataPointToQuestion(dataPoint: DataPoint): Question {
   return {
     title: dataPoint.nome_comune,
-    imageUrl:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/PratoSesia_panorama_inv.jpg/960px-PratoSesia_panorama_inv.jpg",
+    imageUrl: dataPoint.immagine,
     answer: dataPoint.regione,
+    province: dataPoint.provincia,
   };
 }
 

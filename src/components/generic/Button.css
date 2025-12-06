@@ -24,6 +24,12 @@ button:hover:not(.disabled) {
   border-color: var(--border-color, var(--color, var(--dark)));
   background-color: color-mix(in srgb, var(--color) 70%, transparent);
 }
+
+button:disabled {
+  background-color: var(--gray);
+  opacity: 0.5;
+  cursor: not-allowed;
+}
 button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;

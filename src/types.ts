@@ -2,6 +2,7 @@ export interface Question {
   title: string;
   imageUrl: string;
   answer: string;
+  province: string;
 }
 
 export interface DataPoint {
@@ -14,6 +15,8 @@ export interface DataPoint {
   pageviews: number;
   provincia: string;
   regione: string;
+  abitanti: number | null;
+  immagine: string;
 }
 
 export const Difficulty = {
