@@ -30,7 +30,22 @@ img {
   width: 100%;
   display: flex;
   flex-direction: column;
-  /* overflow: hidden; */
+}
+
+.content > div {
+  padding: 0 2em;
+}
+
+.content .province {
+  transition: 0.2s ease;
+  transition-property: transform, opacity;
+  transform: translateY(-100%);
+  opacity: 0;
+}
+
+.province.revealed {
+  opacity: 1;
+  transform: translateY(0);
 }
 
 .actions {
@@ -45,7 +60,6 @@ img {
 
 h2 {
   margin: 0;
-  padding: 0 1em;
   flex-shrink: 0;
 }
 

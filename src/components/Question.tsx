@@ -101,16 +101,13 @@ export function Question({ question, onAnswer }: QuestionProps) {
   return (
     <main className="question">
       <section className="content">
-        <img src={question.imageUrl} alt={question.title} />
-        <h2>
-          <span>{question.title} </span>
-          <span> - </span>
-          {hasAnswered && question.province ? (
-            <span className="province">{question.province}</span>
-          ) : (
-            "???"
-          )}
-        </h2>
+        <img src={question.imageUrl} alt={`Immagine di ${question.title}`} />
+        <div>
+          <h2>{question.title}</h2>
+          <p className={`province ${hasAnswered ? "revealed" : ""}`}>
+            {question.province}
+          </p>
+        </div>
       </section>
       <div className="actions">
         {options}
