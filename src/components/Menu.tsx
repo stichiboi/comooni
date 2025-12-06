@@ -2,6 +2,7 @@ import { Difficulty, type GameOption, type GameStats } from "../types";
 import { Button } from "./generic/Button";
 import "./Menu.css";
 import { Recap } from "./Recap";
+import { Logo } from "./generic/Logo";
 
 interface MenuProps {
   onStartGame: (difficulty: Difficulty) => void;
@@ -33,7 +34,7 @@ export function Menu({ onStartGame, previousGameStats }: MenuProps) {
   return (
     <main className="menu">
       <div>
-        <h1>{"Comooni"}</h1>
+        <Logo aria-label="Comooni" />
         <section>
           Indovina la regione dei comuni italiani, basandoti solo su nome e
           immagine!
