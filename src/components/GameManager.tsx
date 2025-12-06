@@ -3,15 +3,18 @@ import { Menu } from "./Menu";
 import { GameRunner } from "./GameRunner";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import "./GameManager.css";
+import type { Difficulty, GameStats, Question } from "../types";
 
 export function GameManager() {
-  const [difficulty, setDifficulty] = useState<string | null>(null);
-  const [previousScore, setPreviousScore] = useState<number | null>(null);
+  const [difficulty, setDifficulty] = useState<Difficulty | null>(null);
+  const [previousGameStats, setPreviousGameStats] = useState<GameStats | null>(
+    null
+  );
   const [isGameRunning, setIsGameRunning] = useState<boolean>(false);
   const queryClient = new QueryClient();
 
   const startGame = useCallback(
-    (difficulty: string) => {
+    (difficulty: Difficulty) => {
       setDifficulty(difficulty);
       setIsGameRunning(true);
     },
@@ -19,8 +22,15 @@ export function GameManager() {
   );
 
   const onGameOver = useCallback(
-    (score: number) => {
-      setPreviousScore(score);
+    (answers: { question: Question; isCorrect: boolean }[]) => {
+      setPreviousGameStats({
+        score: answers.reduce(
+          (acc, answer) => acc + (answer.isCorrect ? 1 : 0),
+          0
+        ),
+        answers: answers,
+        difficulty: difficulty!,
+      });
       setIsGameRunning(false);
 
       setTimeout(() => {
@@ -28,7 +38,7 @@ export function GameManager() {
         setDifficulty(null);
       }, 450);
     },
-    [setDifficulty, setPreviousScore]
+    [setDifficulty, setPreviousGameStats, difficulty]
   );
 
   return (
@@ -36,7 +46,7 @@ export function GameManager() {
       <div
         className={"manager scrollable" + (isGameRunning ? " scrolled" : "")}
       >
-        <Menu onStartGame={startGame} previousScore={previousScore} />
+        <Menu onStartGame={startGame} previousGameStats={previousGameStats} />
         {difficulty && (
           <GameRunner onGameOver={onGameOver} difficulty={difficulty!} />
         )}

@@ -7,7 +7,7 @@ import "./GameRunner.css";
 
 interface GameRunnerProps {
   difficulty: string;
-  onGameOver: (score: number) => void;
+  onGameOver: (answers: { question: Question; isCorrect: boolean }[]) => void;
 }
 
 function mapDataPointToQuestion(dataPoint: DataPoint): Question {
@@ -19,11 +19,11 @@ function mapDataPointToQuestion(dataPoint: DataPoint): Question {
   };
 }
 
-const GAME_LENGTH = 10;
+const GAME_LENGTH = 3;
 
 export function GameRunner({ difficulty, onGameOver }: GameRunnerProps) {
   const [currentQuestion, setCurrentQuestion] = useState<number>(0);
-  const [score, setScore] = useState<number>(0);
+  const [score, setScore] = useState<number[]>([]);
   const {
     data: questions,
     isLoading,
@@ -48,17 +48,24 @@ export function GameRunner({ difficulty, onGameOver }: GameRunnerProps) {
   const [isTransitioning, setIsTransitioning] = useState<boolean>(false);
 
   const onAnswer = (isCorrect: boolean) => {
-    if (isCorrect) {
-      setScore((prev) => prev + 1);
-    }
-    const isLastQuestion = currentQuestion === questions!.length - 1;
-    if (isLastQuestion) {
-      onGameOver(score);
-    } else {
-      setCurrentQuestion((prev) => prev + 1);
+    const newScore = isCorrect ? 1 : 0;
+    setScore((prev) => [...prev, newScore]);
+    setCurrentQuestion((prev) => prev + 1);
+    if (questions && currentQuestion < questions.length - 1) {
       setIsTransitioning(true);
     }
   };
+
+  useEffect(() => {
+    if (questions && currentQuestion === questions.length) {
+      onGameOver(
+        score.map((isCorrect: number, index: number) => ({
+          question: questions![index]!,
+          isCorrect: Boolean(isCorrect),
+        }))
+      );
+    }
+  }, [currentQuestion, questions, score, onGameOver]);
 
   useEffect(() => {
     if (isTransitioning) {
@@ -96,7 +103,9 @@ export function GameRunner({ difficulty, onGameOver }: GameRunnerProps) {
         />
       </header>
       <div
-        className={"game-content" + (isTransitioning ? " scrollable scrolled" : "")}
+        className={
+          "game-content" + (isTransitioning ? " scrollable scrolled" : "")
+        }
       >
         {isTransitioning && (
           <QuestionComponent

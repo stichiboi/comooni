@@ -1,30 +1,29 @@
+import { Difficulty, type GameOption, type GameStats } from "../types";
 import { Button } from "./generic/Button";
 import "./Menu.css";
-
-interface Difficulty {
-  label: string;
-  color: string;
-  questionSet: string;
-}
+import { Recap } from "./Recap";
 
 interface MenuProps {
-  onStartGame: (difficulty: string) => void;
+  onStartGame: (difficulty: Difficulty) => void;
 
-  previousScore: number | null;
+  previousGameStats: GameStats | null;
 }
-export function Menu({ onStartGame, previousScore }: MenuProps) {
-  const difficulties: Record<string, Difficulty> = {
+export function Menu({ onStartGame, previousGameStats }: MenuProps) {
+  const difficulties: Record<string, GameOption> = {
     easy: {
+      difficulty: Difficulty.Easy,
       label: "Facile",
       color: "#00FF00",
       questionSet: "easy.json",
     },
     medium: {
+      difficulty: Difficulty.Medium,
       label: "Medio",
       color: "#FFFF00",
       questionSet: "medium.json",
     },
     hard: {
+      difficulty: Difficulty.Hard,
       label: "Difficile",
       color: "#FF0000",
       questionSet: "hard.json",
@@ -34,10 +33,14 @@ export function Menu({ onStartGame, previousScore }: MenuProps) {
   return (
     <main className="menu">
       <h1>{"Comooni"}</h1>
-      {previousScore !== null && <p>Your previous score: {previousScore}</p>}
+      {previousGameStats ? <Recap gameStats={previousGameStats} /> : null}
       <section className="difficulty-buttons">
-        {Object.entries(difficulties).map(([key, difficulty]) => (
-          <Button key={key} className={key} onClick={() => onStartGame(key)}>
+        {Object.values(difficulties).map((difficulty) => (
+          <Button
+            key={difficulty.difficulty}
+            className={difficulty.difficulty}
+            onClick={() => onStartGame(difficulty.difficulty)}
+          >
             {difficulty.label}
           </Button>
         ))}
